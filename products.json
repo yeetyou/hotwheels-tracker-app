@@ -4358,7 +4358,7 @@
   "gid://shopify/Product/9125922767053": {
     "title": "Hot Wheels Elite 64 Mercedes-Benz G 63 AMG 6x6",
     "handle": "hot-wheels-elite-64-mercedes-benz-g-63-amg-6x6-jcp45",
-    "available": false,
+    "available": true,
     "price": 22.0
   }
 }
