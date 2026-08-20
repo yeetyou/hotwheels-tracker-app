@@ -2570,7 +2570,7 @@
   "gid://shopify/Product/9001614016717": {
     "title": "Hot Wheels Premium Fast & Furious 2003 Dodge Viper SRT 10",
     "handle": "hot-wheels-premium-fast-furious-vehicle-jbl85",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9001614278861": {
