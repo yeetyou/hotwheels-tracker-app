@@ -4319,6 +4319,12 @@
     "available": false,
     "price": 22.0
   },
+  "gid://shopify/Product/9125222088909": {
+    "title": "Hot Wheels RLC 2022 Ford Mustang Shelby GT500 Code Red",
+    "handle": "hot-wheels-rlc-2022-ford-mustang-shelby-gt500-code-red-jjy59",
+    "available": false,
+    "price": 28.0
+  },
   "gid://shopify/Product/9125234835661": {
     "title": "Hot Wheels Premium 1985 Chevrolet K5 Blazer from the Netflix Series Stranger Things",
     "handle": "hot-wheels-premium-1985-chevrolet-k5-blazer-jhw86",
@@ -4355,10 +4361,28 @@
     "available": true,
     "price": 10.0
   },
+  "gid://shopify/Product/9125922701517": {
+    "title": "Hot Wheels Premium Boulevard '71 El Camino",
+    "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
+    "available": true,
+    "price": 7.0
+  },
   "gid://shopify/Product/9125922767053": {
     "title": "Hot Wheels Elite 64 Mercedes-Benz G 63 AMG 6x6",
     "handle": "hot-wheels-elite-64-mercedes-benz-g-63-amg-6x6-jcp45",
     "available": true,
     "price": 22.0
+  },
+  "gid://shopify/Product/9125922799821": {
+    "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
+    "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9125922930893": {
+    "title": "Hot Wheels Premium Car Culture 2-Pack Toyota Chaser JZX 100 & 1989 Toyota Supra",
+    "handle": "hot-wheels-premium-toy-car-culture-2-pack-toyota-chaser-jzx-100-1989-toyota-supra-jhw57",
+    "available": true,
+    "price": 16.0
   }
 }
