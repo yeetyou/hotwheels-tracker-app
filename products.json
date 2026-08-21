@@ -3572,7 +3572,7 @@
   "gid://shopify/Product/9096452702413": {
     "title": "Hot Wheels Premium Fast & Furious 1970 Chevrolet Chevelle SS",
     "handle": "hot-wheels-premium-fast-furious-1970-chevorlet-chevelle-ss-jhw73",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9096452735181": {
