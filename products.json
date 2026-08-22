@@ -2222,7 +2222,7 @@
   "gid://shopify/Product/8979088015565": {
     "title": "Hot Wheels Boulevard Vehicle Alfa Romeo GTV6 3.0",
     "handle": "hot-wheels-boulevard-vehicle-jbl16",
-    "available": false,
+    "available": true,
     "price": 4.55
   },
   "gid://shopify/Product/8979088113869": {
