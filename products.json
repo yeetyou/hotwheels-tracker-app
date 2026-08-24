@@ -3638,7 +3638,7 @@
   "gid://shopify/Product/9097380430029": {
     "title": "Hot Wheels RLC Exclusive 2025 Hot Wheels Factory-Sealed Set",
     "handle": "rlc-exclusive-2025-hot-wheels-factory-sealed-set-jcb48",
-    "available": true,
+    "available": false,
     "price": 650.0
   },
   "gid://shopify/Product/9099166843085": {
@@ -4376,7 +4376,7 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922930893": {
