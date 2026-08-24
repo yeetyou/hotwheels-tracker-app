@@ -3638,7 +3638,7 @@
   "gid://shopify/Product/9097380430029": {
     "title": "Hot Wheels RLC Exclusive 2025 Hot Wheels Factory-Sealed Set",
     "handle": "rlc-exclusive-2025-hot-wheels-factory-sealed-set-jcb48",
-    "available": false,
+    "available": true,
     "price": 650.0
   },
   "gid://shopify/Product/9099166843085": {
@@ -3812,7 +3812,7 @@
   "gid://shopify/Product/9106479710413": {
     "title": "Hot Wheels RLC Exclusive 1972 Skyline H/T 2000GT-R",
     "handle": "rlc-exclusive-1972-skyline-ht-2000gt-r-jkc01",
-    "available": false,
+    "available": true,
     "price": 30.0
   },
   "gid://shopify/Product/9106641289421": {
@@ -3998,7 +3998,7 @@
   "gid://shopify/Product/9111919427789": {
     "title": "Hot Wheels RLC Exclusive 1994 NSX",
     "handle": "rlc-exclusive-1994-acura-nsx-jjy73",
-    "available": false,
+    "available": true,
     "price": 38.0
   },
   "gid://shopify/Product/9112100307149": {
@@ -4100,7 +4100,7 @@
   "gid://shopify/Product/9113469452493": {
     "title": "Hot Wheels RLC Exclusive 1962 Ford F-100",
     "handle": "rlc-exclusive-ford-f100-jjy60",
-    "available": false,
+    "available": true,
     "price": 28.0
   },
   "gid://shopify/Product/9113470435533": {
