@@ -3836,7 +3836,7 @@
   "gid://shopify/Product/9106641420493": {
     "title": "Hot Wheels Premium Car Culture '84 Mustang SVO",
     "handle": "hot-wheels-premium-car-culture-jkf31",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9106641486029": {
@@ -4100,7 +4100,7 @@
   "gid://shopify/Product/9113469452493": {
     "title": "Hot Wheels RLC Exclusive 1962 Ford F-100",
     "handle": "rlc-exclusive-ford-f100-jjy60",
-    "available": true,
+    "available": false,
     "price": 28.0
   },
   "gid://shopify/Product/9113470435533": {
