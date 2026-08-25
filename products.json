@@ -4286,7 +4286,7 @@
   "gid://shopify/Product/9123032498381": {
     "title": "Mattel Brick Shop Hot Wheels '84 Audi Sport quattro Building Set",
     "handle": "mattel-brick-shop-hot-wheels-84-audi-sport-quattro-jlk39",
-    "available": false,
+    "available": true,
     "price": 54.0
   },
   "gid://shopify/Product/9123767615693": {
@@ -4322,7 +4322,7 @@
   "gid://shopify/Product/9125222088909": {
     "title": "Hot Wheels RLC 2022 Ford Mustang Shelby GT500 Code Red",
     "handle": "hot-wheels-rlc-2022-ford-mustang-shelby-gt500-code-red-jjy59",
-    "available": true,
+    "available": false,
     "price": 28.0
   },
   "gid://shopify/Product/9125234835661": {
