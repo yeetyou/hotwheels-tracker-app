@@ -4262,7 +4262,7 @@
   "gid://shopify/Product/9122676244685": {
     "title": "Hot Wheels Premium Car Culture A\u00e9ro Styles Custom \u201970 Chevy Nova",
     "handle": "hot-wheels-car-culture-premium-70-chevy-nova-jkf37",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9122906079437": {
@@ -4384,5 +4384,23 @@
     "handle": "hot-wheels-premium-toy-car-culture-2-pack-toyota-chaser-jzx-100-1989-toyota-supra-jhw57",
     "available": true,
     "price": 16.0
+  },
+  "gid://shopify/Product/9127178043597": {
+    "title": "Hot Wheels x Supercar Blondie x Lamborghini Hurac\u00e1n LP 610-4",
+    "handle": "hot-wheels-x-supercar-blondie-x-lamborghini-huracan-lp-610-4-jwb72",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9127178436813": {
+    "title": "Hot Wheels x Robert Lewandowski x 1997 Porsche 911 GT1",
+    "handle": "hot-wheels-x-robert-lewandowski-x-1997-porsche-911-gt1-jwt48",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9127178895565": {
+    "title": "Hot Wheels x Maluma x Toyota Land Cruiser FJ60",
+    "handle": "hot-wheels-x-maluma-x-toyota-land-cruiser-fj60-jwk47",
+    "available": true,
+    "price": 25.0
   }
 }
