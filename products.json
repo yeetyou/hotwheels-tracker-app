@@ -4076,7 +4076,7 @@
   "gid://shopify/Product/9113029083341": {
     "title": "Hot Wheels Premium Fast & Furious 2010 BMW M5",
     "handle": "hot-wheels-premium-fast-furious-2010-bmw-m5-jhw62",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9113029116109": {
@@ -4364,7 +4364,7 @@
   "gid://shopify/Product/9125922701517": {
     "title": "Hot Wheels Premium Boulevard '71 El Camino",
     "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9125922767053": {
