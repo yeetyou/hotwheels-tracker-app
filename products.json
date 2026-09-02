@@ -1931,6 +1931,18 @@
     "available": false,
     "price": 25.0
   },
+  "gid://shopify/Product/8924711715021": {
+    "title": "Hot Wheels Spiderweb Logo Embroidered T-shirt",
+    "handle": "hot-wheels-spiderweb-logo-embroidered-t-shirt",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/8924711944397": {
+    "title": "Hot Wheels Spiderweb Logo Embroidered Hoodie",
+    "handle": "hot-wheels-spiderweb-logo-embroidered-hoodie",
+    "available": true,
+    "price": 50.0
+  },
   "gid://shopify/Product/8924776661197": {
     "title": "Hot Wheels Car Culture Circuit Legends 2018 Bentley Continental GT3",
     "handle": "hot-wheels-car-culture-circuit-legends-vehicle-hrv93",
@@ -1948,6 +1960,12 @@
     "handle": "hot-wheels-car-culture-circuit-legends-vehicle-hrv95",
     "available": false,
     "price": 6.5
+  },
+  "gid://shopify/Product/8924845965517": {
+    "title": "Hot Wheels Halloween Tote Bag",
+    "handle": "hot-wheels-halloween-tote-bag",
+    "available": true,
+    "price": 25.0
   },
   "gid://shopify/Product/8925751115981": {
     "title": "Hot Wheels RLC Exclusive 1975 Chevrolet Monte Carlo",
@@ -3004,6 +3022,24 @@
     "handle": "mattel-80th-original-16-jcp66",
     "available": false,
     "price": 550.0
+  },
+  "gid://shopify/Product/9049331564749": {
+    "title": "Hot Wheels Mummy Logo Embroidered Black T-Shirt",
+    "handle": "hot-wheels-mummy-logo-embroidered-black-t-shirt",
+    "available": true,
+    "price": 30.0
+  },
+  "gid://shopify/Product/9049331663053": {
+    "title": "Hot Wheels Mummy Logo Black Hoodie",
+    "handle": "hot-wheels-mummy-logo-embroidered-black-hoodie",
+    "available": true,
+    "price": 50.0
+  },
+  "gid://shopify/Product/9049331728589": {
+    "title": "Hot Wheels Mummy Logo Black Hat",
+    "handle": "hot-wheels-mummy-logo-black-hat",
+    "available": true,
+    "price": 30.0
   },
   "gid://shopify/Product/9051050868941": {
     "title": "Hot Wheels RLC Exclusive 1993 Ford Mustang Cobra R",
