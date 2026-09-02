@@ -4046,7 +4046,7 @@
   "gid://shopify/Product/9113028755661": {
     "title": "Hot Wheels Premium Boulevard 20058 Toyota Alphard",
     "handle": "hot-wheels-premium-boulevard-20058-toyota-alphard-jhw20",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9113028788429": {
@@ -4088,7 +4088,7 @@
   "gid://shopify/Product/9113029181645": {
     "title": "Hot Wheels Premium Boulevard Koenigsegg CC850",
     "handle": "hot-wheels-premium-boulevard-koenigsegg-cc850-jhw21",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9113029214413": {
