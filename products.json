@@ -3500,7 +3500,7 @@
   "gid://shopify/Product/9096451981517": {
     "title": "Hot Wheels Premium Boulevard 1978 Dodge LI'L Red Truck / Camion",
     "handle": "hot-wheels-premium-boulevard-1978-dodge-lil-red-truck-camion-jhw27",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9096452047053": {
@@ -4046,7 +4046,7 @@
   "gid://shopify/Product/9113028755661": {
     "title": "Hot Wheels Premium Boulevard 20058 Toyota Alphard",
     "handle": "hot-wheels-premium-boulevard-20058-toyota-alphard-jhw20",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9113028788429": {
