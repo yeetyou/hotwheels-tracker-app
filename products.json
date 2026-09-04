@@ -4400,7 +4400,7 @@
   "gid://shopify/Product/9125922701517": {
     "title": "Hot Wheels Premium Boulevard '71 El Camino",
     "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9125922767053": {
