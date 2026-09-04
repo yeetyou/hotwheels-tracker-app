@@ -4064,7 +4064,7 @@
   "gid://shopify/Product/9113028591821": {
     "title": "Hot Wheels Premium Volkswagen Kool Kombi",
     "handle": "hot-wheels-premium-volkswagen-kool-kombi-jhx01",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9113028690125": {
@@ -4412,7 +4412,7 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922930893": {
