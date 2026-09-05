@@ -3872,7 +3872,7 @@
   "gid://shopify/Product/9106641420493": {
     "title": "Hot Wheels Premium Car Culture '84 Mustang SVO",
     "handle": "hot-wheels-premium-car-culture-jkf31",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9106641486029": {
