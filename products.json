@@ -3524,7 +3524,7 @@
   "gid://shopify/Product/9096451883213": {
     "title": "Hot Wheels Premium Boulevard Ford RS200",
     "handle": "hot-premium-wheels-boulevard-ford-rs200-jbl29",
-    "available": true,
+    "available": false,
     "price": 6.5
   },
   "gid://shopify/Product/9096451948749": {
