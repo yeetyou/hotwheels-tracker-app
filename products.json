@@ -3698,7 +3698,7 @@
   "gid://shopify/Product/9099167563981": {
     "title": "Mattel Brick Shop Hot Wheels \u201907 Honda S2000 Building Set",
     "handle": "mattel-brick-shop-hot-wheels-07-honda-s2000-jfr88",
-    "available": false,
+    "available": true,
     "price": 22.0
   },
   "gid://shopify/Product/9099167858893": {
@@ -4076,7 +4076,7 @@
   "gid://shopify/Product/9113028722893": {
     "title": "Hot Wheels Premium Car Culture LB-Kaido Works Nissan R32 Skyline GT-R",
     "handle": "hot-wheels-premium-car-culture-jkf05",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9113028755661": {
@@ -4304,7 +4304,7 @@
   "gid://shopify/Product/9122906079437": {
     "title": "Hot Wheels Premium Car Culture A\u00e9ro Styles LB Super Silhouette Nissan Silvia (S15)",
     "handle": "hot-wheels-premium-car-culture-lb-super-silhouette-nissan-silvia-s15-jkf34",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9122906144973": {
@@ -4346,7 +4346,7 @@
   "gid://shopify/Product/9124407509197": {
     "title": "Mattel Brick Shop Hot Wheels \u201994 Toyota Supra MKIV Building Set",
     "handle": "mattel-brick-shop-hot-wheels-94-toyota-supra-mkiv-building-set-jkg40",
-    "available": false,
+    "available": true,
     "price": 54.0
   },
   "gid://shopify/Product/9124407541965": {
