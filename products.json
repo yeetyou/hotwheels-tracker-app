@@ -3104,7 +3104,7 @@
   "gid://shopify/Product/9055112790221": {
     "title": "Hot Wheels Premium Car Culture 2024 Mustang RTR Spec 5-FD",
     "handle": "hot-wheels-premium-car-culture-2024-mustang-rtr-spec-5-fd-jbk48",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9055112855757": {
@@ -4346,7 +4346,7 @@
   "gid://shopify/Product/9124407509197": {
     "title": "Mattel Brick Shop Hot Wheels \u201994 Toyota Supra MKIV Building Set",
     "handle": "mattel-brick-shop-hot-wheels-94-toyota-supra-mkiv-building-set-jkg40",
-    "available": true,
+    "available": false,
     "price": 54.0
   },
   "gid://shopify/Product/9124407541965": {
