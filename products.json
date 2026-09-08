@@ -3104,7 +3104,7 @@
   "gid://shopify/Product/9055112790221": {
     "title": "Hot Wheels Premium Car Culture 2024 Mustang RTR Spec 5-FD",
     "handle": "hot-wheels-premium-car-culture-2024-mustang-rtr-spec-5-fd-jbk48",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9055112855757": {
@@ -3704,7 +3704,7 @@
   "gid://shopify/Product/9099167858893": {
     "title": "Mattel Brick Shop Hot Wheels Custom \u201990 Honda Civic EF Building Set",
     "handle": "mattel-brick-shop-hot-wheels-custom-90-honda-civic-ef-jhf62",
-    "available": false,
+    "available": true,
     "price": 22.0
   },
   "gid://shopify/Product/9101684375757": {
