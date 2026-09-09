@@ -3488,7 +3488,7 @@
   "gid://shopify/Product/9095456784589": {
     "title": "Hot Wheels Premium Car Culture Timeless Icons Koenigsegg Agera R",
     "handle": "hot-wheels-premium-car-culture-timeless-icons-koenigsegg-agera-r-jbk93",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9095456850125": {
@@ -3644,7 +3644,7 @@
   "gid://shopify/Product/9096453095629": {
     "title": "Hot Wheels Premium McLaren 2025 Formula 1\u00ae Team #4",
     "handle": "hot-wheels-premium-mclaren-formula-1-team-jkd88",
-    "available": true,
+    "available": false,
     "price": 9.0
   },
   "gid://shopify/Product/9096453128397": {
@@ -4124,7 +4124,7 @@
   "gid://shopify/Product/9113029181645": {
     "title": "Hot Wheels Premium Boulevard Koenigsegg CC850",
     "handle": "hot-wheels-premium-boulevard-koenigsegg-cc850-jhw21",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9113029214413": {
