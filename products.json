@@ -4346,7 +4346,7 @@
   "gid://shopify/Product/9124407509197": {
     "title": "Mattel Brick Shop Hot Wheels \u201994 Toyota Supra MKIV Building Set",
     "handle": "mattel-brick-shop-hot-wheels-94-toyota-supra-mkiv-building-set-jkg40",
-    "available": false,
+    "available": true,
     "price": 54.0
   },
   "gid://shopify/Product/9124407541965": {
@@ -4403,6 +4403,12 @@
     "available": true,
     "price": 7.0
   },
+  "gid://shopify/Product/9125922734285": {
+    "title": "Hot Wheels Premium  Boulevard Aston Martin DBS",
+    "handle": "hot-wheels-premium-boulevard-aston-martin-dbs-jhw36",
+    "available": true,
+    "price": 8.0
+  },
   "gid://shopify/Product/9125922767053": {
     "title": "Hot Wheels Elite 64 Mercedes-Benz G 63 AMG 6x6",
     "handle": "hot-wheels-elite-64-mercedes-benz-g-63-amg-6x6-jcp45",
@@ -4415,11 +4421,23 @@
     "available": false,
     "price": 8.0
   },
+  "gid://shopify/Product/9125922832589": {
+    "title": "Hot Wheels Premium Boulevard '66 Super Nova",
+    "handle": "hot-wheels-premium-boulevard-66-super-nova-jhw35",
+    "available": true,
+    "price": 7.0
+  },
   "gid://shopify/Product/9125922930893": {
     "title": "Hot Wheels Premium Car Culture 2-Pack Toyota Chaser JZX 100 & 1989 Toyota Supra",
     "handle": "hot-wheels-premium-toy-car-culture-2-pack-toyota-chaser-jzx-100-1989-toyota-supra-jhw57",
     "available": false,
     "price": 16.0
+  },
+  "gid://shopify/Product/9125922963661": {
+    "title": "Hot Wheels Premium Boulevard Enzo Ferrari",
+    "handle": "hot-wheels-premium-boulevard-enzo-ferrari-jhw22",
+    "available": false,
+    "price": 8.0
   },
   "gid://shopify/Product/9127178043597": {
     "title": "Hot Wheels x Supercar Blondie x Lamborghini Hurac\u00e1n LP 610-4",
@@ -4438,6 +4456,60 @@
     "handle": "hot-wheels-x-maluma-x-toyota-land-cruiser-fj60-jwk47",
     "available": true,
     "price": 25.0
+  },
+  "gid://shopify/Product/9127766032589": {
+    "title": "Hot Wheels Premium Car Culture Road Trip \u201964 Chevy Nova Station Wagon",
+    "handle": "hot-wheels-premium-car-culture-64-chevy-nova-station-wagon-jkf39",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766065357": {
+    "title": "Hot Wheels Premium Car Culture Road Trip 1993 Mercedes-Benz G-Class",
+    "handle": "hot-wheels-premium-car-culture-1993-mercedes-benz-g-class-jkf38",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766229197": {
+    "title": "Hot Wheels Premium Car Culture Road Trip Land Rover S2",
+    "handle": "hot-wheels-premium-car-culture-land-rover-s2-jkf06",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766294733": {
+    "title": "Hot Wheels Premium Car Culture Road Trip Subaru Legacy GT (BP)",
+    "handle": "hot-wheels-premium-car-culture-subaru-legacy-gt-bp-jkf07",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766327501": {
+    "title": "Hot Wheels Premium Collector Display Set",
+    "handle": "hot-wheels-premium-collector-display-set-jhw45",
+    "available": true,
+    "price": 40.0
+  },
+  "gid://shopify/Product/9127766360269": {
+    "title": "Hot Wheels Premium Fast & Furious Lexus LFA",
+    "handle": "hot-wheels-premium-fast-furious-lexus-lfa-jhw66",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766393037": {
+    "title": "Hot Wheels Premium Fast & Furious McLaren 720S",
+    "handle": "hot-wheels-premium-fast-furious-mclaren-720s-jhw80",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766491341": {
+    "title": "Hot Wheels Premium Fast & Furious Mercedez-Bens SLS AMG Coup\u00e9 Black Series",
+    "handle": "hot-wheels-premium-fast-furious-mercedez-bens-sls-amg-coupe-black-series-jhw65",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766917325": {
+    "title": "Hot Wheels Premium Fast & Furious Nissan 350Z Custom",
+    "handle": "hot-wheels-premium-fast-furious-nissan-350z-custom-personnalise-jhw79",
+    "available": true,
+    "price": 8.0
   },
   "gid://shopify/Product/9127876755661": {
     "title": "Hot Wheels Transformers Bumblebee",
