@@ -3644,7 +3644,7 @@
   "gid://shopify/Product/9096453095629": {
     "title": "Hot Wheels Premium McLaren 2025 Formula 1\u00ae Team #4",
     "handle": "hot-wheels-premium-mclaren-formula-1-team-jkd88",
-    "available": false,
+    "available": true,
     "price": 9.0
   },
   "gid://shopify/Product/9096453128397": {
@@ -3872,7 +3872,7 @@
   "gid://shopify/Product/9106641420493": {
     "title": "Hot Wheels Premium Car Culture '84 Mustang SVO",
     "handle": "hot-wheels-premium-car-culture-jkf31",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9106641486029": {
@@ -4124,7 +4124,7 @@
   "gid://shopify/Product/9113029181645": {
     "title": "Hot Wheels Premium Boulevard Koenigsegg CC850",
     "handle": "hot-wheels-premium-boulevard-koenigsegg-cc850-jhw21",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9113029214413": {
@@ -4438,5 +4438,11 @@
     "handle": "hot-wheels-x-maluma-x-toyota-land-cruiser-fj60-jwk47",
     "available": true,
     "price": 25.0
+  },
+  "gid://shopify/Product/9127876755661": {
+    "title": "Hot Wheels Transformers Bumblebee",
+    "handle": "hot-wheels-transformers-bumblebee-jjy49",
+    "available": false,
+    "price": 65.0
   }
 }
