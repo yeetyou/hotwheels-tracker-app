@@ -3698,7 +3698,7 @@
   "gid://shopify/Product/9099167563981": {
     "title": "Mattel Brick Shop Hot Wheels \u201907 Honda S2000 Building Set",
     "handle": "mattel-brick-shop-hot-wheels-07-honda-s2000-jfr88",
-    "available": true,
+    "available": false,
     "price": 22.0
   },
   "gid://shopify/Product/9099167858893": {
@@ -4456,6 +4456,12 @@
     "handle": "hot-wheels-x-maluma-x-toyota-land-cruiser-fj60-jwk47",
     "available": true,
     "price": 25.0
+  },
+  "gid://shopify/Product/9127765999821": {
+    "title": "Hot Wheels 56-Car Display Case",
+    "handle": "hot-wheels-56-car-display-case-jnn88",
+    "available": false,
+    "price": 150.0
   },
   "gid://shopify/Product/9127766032589": {
     "title": "Hot Wheels Premium Car Culture Road Trip \u201964 Chevy Nova Station Wagon",
