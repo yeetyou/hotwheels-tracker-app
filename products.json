@@ -4400,7 +4400,7 @@
   "gid://shopify/Product/9125922701517": {
     "title": "Hot Wheels Premium Boulevard '71 El Camino",
     "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9125922734285": {
@@ -4460,13 +4460,13 @@
   "gid://shopify/Product/9127765999821": {
     "title": "Hot Wheels 56-Car Display Case",
     "handle": "hot-wheels-56-car-display-case-jnn88",
-    "available": false,
+    "available": true,
     "price": 150.0
   },
   "gid://shopify/Product/9127766032589": {
     "title": "Hot Wheels Premium Car Culture Road Trip \u201964 Chevy Nova Station Wagon",
     "handle": "hot-wheels-premium-car-culture-64-chevy-nova-station-wagon-jkf39",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9127766065357": {
