@@ -4400,7 +4400,7 @@
   "gid://shopify/Product/9125922701517": {
     "title": "Hot Wheels Premium Boulevard '71 El Camino",
     "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
-    "available": false,
+    "available": true,
     "price": 7.0
   },
   "gid://shopify/Product/9125922734285": {
@@ -4520,7 +4520,7 @@
   "gid://shopify/Product/9127876755661": {
     "title": "Hot Wheels Transformers Bumblebee",
     "handle": "hot-wheels-transformers-bumblebee-jjy49",
-    "available": false,
+    "available": true,
     "price": 65.0
   }
 }
