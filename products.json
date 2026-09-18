@@ -4522,5 +4522,29 @@
     "handle": "hot-wheels-transformers-bumblebee-jjy49",
     "available": true,
     "price": 65.0
+  },
+  "gid://shopify/Product/9134557331661": {
+    "title": "Hot Wheels Premium Atlassian Williams Racing 2025 Formula 1\u00ae Team #23 Alex Albon & Team #55 Carlos Sainz",
+    "handle": "hot-wheels-premium-atlassian-williams-racing-2025-formula-1-team-23-team-55-jmm98",
+    "available": true,
+    "price": 22.0
+  },
+  "gid://shopify/Product/9134559822029": {
+    "title": "Hot Wheels Premium KICK Sauber 2025 Formula 1\u00ae Team #27 Nico H\u00fclkenberg & Team #5 Gabriel Bortoleto",
+    "handle": "hot-wheels-premium-kick-sauber-2025-formula-1-team-27-team-5-jmm92",
+    "available": true,
+    "price": 22.0
+  },
+  "gid://shopify/Product/9134559854797": {
+    "title": "Hot Wheels Premium Oracle Red Bull Racing 2025 Formula 1\u00ae Team #22 Yuki Tsunoda & Team #1 Max Verstappen",
+    "handle": "hot-wheels-premium-oracle-red-bull-racing-2025-formula-1-team-22-team-1-jmm95",
+    "available": true,
+    "price": 22.0
+  },
+  "gid://shopify/Product/9140554367181": {
+    "title": "Hot Wheels F1\u00ae Cars",
+    "handle": "hot-wheels-f1\u00ae-vehicles",
+    "available": true,
+    "price": 9.0
   }
 }
