@@ -3608,7 +3608,7 @@
   "gid://shopify/Product/9096452702413": {
     "title": "Hot Wheels Premium Fast & Furious 1970 Chevrolet Chevelle SS",
     "handle": "hot-wheels-premium-fast-furious-1970-chevorlet-chevelle-ss-jhw73",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9096452735181": {
@@ -4539,6 +4539,12 @@
     "title": "Hot Wheels Premium Oracle Red Bull Racing 2025 Formula 1\u00ae Team #22 Yuki Tsunoda & Team #1 Max Verstappen",
     "handle": "hot-wheels-premium-oracle-red-bull-racing-2025-formula-1-team-22-team-1-jmm95",
     "available": true,
+    "price": 22.0
+  },
+  "gid://shopify/Product/9140509507789": {
+    "title": "Hot Wheels Elite 64 Pandem Datsun 280ZX",
+    "handle": "hot-wheels-elite-64-pandem-datsun-280zx-jnf06",
+    "available": false,
     "price": 22.0
   },
   "gid://shopify/Product/9140554367181": {
