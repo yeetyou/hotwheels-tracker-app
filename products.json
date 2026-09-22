@@ -4112,7 +4112,7 @@
   "gid://shopify/Product/9113029083341": {
     "title": "Hot Wheels Premium Fast & Furious 2010 BMW M5",
     "handle": "hot-wheels-premium-fast-furious-2010-bmw-m5-jhw62",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9113029116109": {
@@ -4466,7 +4466,7 @@
   "gid://shopify/Product/9127766032589": {
     "title": "Hot Wheels Premium Car Culture Road Trip \u201964 Chevy Nova Station Wagon",
     "handle": "hot-wheels-premium-car-culture-64-chevy-nova-station-wagon-jkf39",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9127766065357": {
