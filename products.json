@@ -3311,6 +3311,12 @@
     "available": true,
     "price": 6.5
   },
+  "gid://shopify/Product/9090239398093": {
+    "title": "Hot Wheels Premium Boulevard Nissan Laurel C33",
+    "handle": "hot-wheels-boulevard-vehicle-jbl10",
+    "available": true,
+    "price": 6.5
+  },
   "gid://shopify/Product/9090239824077": {
     "title": "Hot Wheels Premium Car Culture Ronin Run II Lancer Evolution IX",
     "handle": "hot-wheels-premium-car-culture-ronin-run-2-mitsubishi-lancer-evolution-ix-jbk86",
@@ -3704,7 +3710,7 @@
   "gid://shopify/Product/9099167858893": {
     "title": "Mattel Brick Shop Hot Wheels Custom \u201990 Honda Civic EF Building Set",
     "handle": "mattel-brick-shop-hot-wheels-custom-90-honda-civic-ef-jhf62",
-    "available": true,
+    "available": false,
     "price": 22.0
   },
   "gid://shopify/Product/9101684375757": {
