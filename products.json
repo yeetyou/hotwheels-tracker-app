@@ -2009,11 +2009,29 @@
     "available": false,
     "price": 25.0
   },
+  "gid://shopify/Product/8945434198221": {
+    "title": "Hot Wheels Vintage Snow Globe T-Shirt",
+    "handle": "hot-wheels-vintage-snow-globe-t-shirt",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/8945434427597": {
+    "title": "Hot Wheels Ugly T-Shirt",
+    "handle": "hot-wheels-ugly-holiday-t-shirt",
+    "available": true,
+    "price": 25.0
+  },
   "gid://shopify/Product/8945435181261": {
     "title": "Hot Wheels Grey Pom Pom Beanie",
     "handle": "hot-wheels-grey-pom-pom-beanie",
     "available": true,
     "price": 25.0
+  },
+  "gid://shopify/Product/8946426446029": {
+    "title": "Hot Wheels Wide Leg  Pants",
+    "handle": "hot-wheels-wide-leg-holiday-pants",
+    "available": true,
+    "price": 50.0
   },
   "gid://shopify/Product/8946972950733": {
     "title": "Hot Wheels RLC Exclusive 1969 Chevy C-10",
@@ -3203,11 +3221,41 @@
     "available": false,
     "price": 8.0
   },
+  "gid://shopify/Product/9058992455885": {
+    "title": "Hot Wheels Holiday Icons Green T-Shirt",
+    "handle": "hot-wheels-holiday-icons-green-t-shirt",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9058992554189": {
+    "title": "Hot Wheels Holiday Flame Red T-shirt",
+    "handle": "hot-wheels-holiday-flame-red-t-shirt",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9058992619725": {
+    "title": "Hot Wheels Snowflake Gears Logo Navy Hoodie",
+    "handle": "hot-wheels-snowflake-gears-logo-navy-hoodie",
+    "available": true,
+    "price": 55.0
+  },
+  "gid://shopify/Product/9058992685261": {
+    "title": "Hot Wheels Snowflake Gears Logo Navy Beanie",
+    "handle": "hot-wheels-snowflake-gears-logo-navy-beanie",
+    "available": true,
+    "price": 25.0
+  },
   "gid://shopify/Product/9058992881869": {
     "title": "Hot Wheels Holiday Icons Blue Ugly Sweater",
     "handle": "hot-wheels-holiday-icons-blue-ugly-sweater",
     "available": true,
     "price": 80.0
+  },
+  "gid://shopify/Product/9058992914637": {
+    "title": "Hot Wheels Holiday Icons White Mug",
+    "handle": "hot-wheels-holiday-icons-white-mug",
+    "available": true,
+    "price": 18.0
   },
   "gid://shopify/Product/9081363005645": {
     "title": "Hot Wheels Elite 64 Porsche 963",
@@ -3542,7 +3590,7 @@
   "gid://shopify/Product/9096451981517": {
     "title": "Hot Wheels Premium Boulevard 1978 Dodge LI'L Red Truck / Camion",
     "handle": "hot-wheels-premium-boulevard-1978-dodge-lil-red-truck-camion-jhw27",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9096452047053": {
@@ -4056,7 +4104,7 @@
     "price": 33.0
   },
   "gid://shopify/Product/9112385192141": {
-    "title": "Hot Wheels RC 1:64 Lamborghini Temerario Alleggerita",
+    "title": "Hot Wheels R/C 1:64 Lamborghini Temerario Alleggerita",
     "handle": "hot-wheels-rc-164-lamborghini-temerario-alleggerita-jhw60",
     "available": true,
     "price": 55.0
