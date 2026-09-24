@@ -1424,7 +1424,7 @@
   "gid://shopify/Product/8734992367821": {
     "title": "Hot Wheels\u2122 Race Team Tumbler - 24 oz",
     "handle": "hot-wheels-race-team-tumbler-24-oz",
-    "available": true,
+    "available": false,
     "price": 24.99
   },
   "gid://shopify/Product/8735872516301": {
@@ -3362,7 +3362,7 @@
   "gid://shopify/Product/9090239398093": {
     "title": "Hot Wheels Premium Boulevard Nissan Laurel C33",
     "handle": "hot-wheels-boulevard-vehicle-jbl10",
-    "available": true,
+    "available": false,
     "price": 6.5
   },
   "gid://shopify/Product/9090239824077": {
