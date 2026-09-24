@@ -4598,7 +4598,7 @@
   "gid://shopify/Product/9140509507789": {
     "title": "Hot Wheels Elite 64 Pandem Datsun 280ZX",
     "handle": "hot-wheels-elite-64-pandem-datsun-280zx-jnf06",
-    "available": false,
+    "available": true,
     "price": 22.0
   },
   "gid://shopify/Product/9140554367181": {
