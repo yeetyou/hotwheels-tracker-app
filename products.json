@@ -4478,7 +4478,7 @@
   "gid://shopify/Product/9125922832589": {
     "title": "Hot Wheels Premium Boulevard '66 Super Nova",
     "handle": "hot-wheels-premium-boulevard-66-super-nova-jhw35",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9125922930893": {
