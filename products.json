@@ -4454,7 +4454,7 @@
   "gid://shopify/Product/9125922701517": {
     "title": "Hot Wheels Premium Boulevard '71 El Camino",
     "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922734285": {
@@ -4496,7 +4496,7 @@
   "gid://shopify/Product/9125922996429": {
     "title": "Hot Wheels RLC Exclusive Nissan Skyline GT-R (BNR32)",
     "handle": "hot-wheels-rlc-exclusive-1989-nissan-skyline-r32-jjy54",
-    "available": true,
+    "available": false,
     "price": 28.0
   },
   "gid://shopify/Product/9127178043597": {
