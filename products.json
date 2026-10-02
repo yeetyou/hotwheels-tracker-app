@@ -4046,7 +4046,7 @@
   "gid://shopify/Product/9109662367949": {
     "title": "Hot Wheels RLC Exclusive \u201998 Subaru Impreza WRX STi",
     "handle": "rlc-exclusive-98-subaru-impreza-wrx-sti-jjy62",
-    "available": true,
+    "available": false,
     "price": 28.0
   },
   "gid://shopify/Product/9110524461261": {
@@ -4370,7 +4370,7 @@
   "gid://shopify/Product/9123011592397": {
     "title": "Mattel Brick Shop Hot Wheels Halo UNSC M12 Warthog Building Set",
     "handle": "mattel-brick-shop-hot-wheels-halo-unsc-m12-warthog-building-set-jnp49",
-    "available": false,
+    "available": true,
     "price": 76.0
   },
   "gid://shopify/Product/9123032498381": {
