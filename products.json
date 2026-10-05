@@ -4130,7 +4130,7 @@
   "gid://shopify/Product/9113028722893": {
     "title": "Hot Wheels Premium Car Culture LB-Kaido Works Nissan R32 Skyline GT-R",
     "handle": "hot-wheels-premium-car-culture-jkf05",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9113028755661": {
@@ -4618,12 +4618,6 @@
     "handle": "hot-wheels-f1\u00ae-vehicles",
     "available": true,
     "price": 9.0
-  },
-  "gid://shopify/Product/9140568850637": {
-    "title": "Hot Wheels RC Subaru Impreza Rally",
-    "handle": "hot-wheels-rc-subaru-impreza-rally-vehicle-jmp91",
-    "available": true,
-    "price": 55.0
   },
   "gid://shopify/Product/9141505753293": {
     "title": "Mattel Brick Shop Hot Wheels Lamborghini Huracan Sterrato Building Set",
