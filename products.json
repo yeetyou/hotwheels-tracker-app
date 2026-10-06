@@ -2288,7 +2288,7 @@
   "gid://shopify/Product/8979339444429": {
     "title": "Hot Wheels Elite 64 McLaren M6GT",
     "handle": "hot-wheels-elite-64-mclaren-m6gt-hwg05",
-    "available": true,
+    "available": false,
     "price": 20.0
   },
   "gid://shopify/Product/8980585382093": {
@@ -4514,7 +4514,7 @@
   "gid://shopify/Product/9127178862797": {
     "title": "Hot Wheels RLC Exclusive 1985 Pontiac J2000",
     "handle": "hot-wheels-rlc-exclusive-pontiac-j2000-jjy71",
-    "available": true,
+    "available": false,
     "price": 33.0
   },
   "gid://shopify/Product/9127178895565": {
