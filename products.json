@@ -3356,7 +3356,7 @@
   "gid://shopify/Product/9090239004877": {
     "title": "Hot Wheels Premium Boulevard '17 Ford GT",
     "handle": "hot-wheels-boulevard-vehicle-jbl15",
-    "available": true,
+    "available": false,
     "price": 6.5
   },
   "gid://shopify/Product/9090239398093": {
@@ -4142,7 +4142,7 @@
   "gid://shopify/Product/9113028788429": {
     "title": "Hot Wheels Premium Fast & Furious 2003 Honda NSX Type-R",
     "handle": "hot-wheels-premium-fast-furious-jhw75",
-    "available": true,
+    "available": false,
     "price": 7.0
   },
   "gid://shopify/Product/9113028821197": {
