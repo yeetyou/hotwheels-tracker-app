@@ -4106,7 +4106,7 @@
   "gid://shopify/Product/9112385192141": {
     "title": "Hot Wheels R/C 1:64 Lamborghini Temerario Alleggerita",
     "handle": "hot-wheels-rc-164-lamborghini-temerario-alleggerita-jhw60",
-    "available": false,
+    "available": true,
     "price": 55.0
   },
   "gid://shopify/Product/9112964530381": {
@@ -4541,11 +4541,35 @@
     "available": true,
     "price": 8.0
   },
+  "gid://shopify/Product/9127766098125": {
+    "title": "Hot Wheels Premium Car Culture Road Trip 2024 Toyota Tacoma TRD PRO",
+    "handle": "hot-wheels-premium-car-culture-2024-toyota-tacoma-trd-pro-jkf40",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9127766130893": {
+    "title": "Hot Wheels Premium Car Culture Cyberpunk 2077 2-Pack",
+    "handle": "hot-wheels-premium-car-culture-2-pack-quadra-turbo-r-v-tech-porsche-930-jhw53",
+    "available": true,
+    "price": 16.0
+  },
+  "gid://shopify/Product/9127766163661": {
+    "title": "Hot Wheels Premium Car Culture Black Hole Racing Gasser 2-Pack",
+    "handle": "hot-wheels-premium-car-culture-black-hole-gasser-2-pack-jhw56",
+    "available": true,
+    "price": 16.0
+  },
   "gid://shopify/Product/9127766229197": {
     "title": "Hot Wheels Premium Car Culture Road Trip Land Rover S2",
     "handle": "hot-wheels-premium-car-culture-land-rover-s2-jkf06",
     "available": true,
     "price": 8.0
+  },
+  "gid://shopify/Product/9127766261965": {
+    "title": "Hot Wheels Premium Car Culture McLaren 2-Pack",
+    "handle": "hot-wheels-premium-car-culture-mclaren-2-pack-jhw52",
+    "available": true,
+    "price": 16.0
   },
   "gid://shopify/Product/9127766294733": {
     "title": "Hot Wheels Premium Car Culture Road Trip Subaru Legacy GT (BP)",
@@ -4618,6 +4642,12 @@
     "handle": "hot-wheels-f1\u00ae-vehicles",
     "available": true,
     "price": 9.0
+  },
+  "gid://shopify/Product/9141505425613": {
+    "title": "Hot Wheels RLC Exclusive 1993 Mazda RX-7 R1",
+    "handle": "hot-wheels-rlc-exclusive-1993-mazda-rx-7-r1-jkc06",
+    "available": false,
+    "price": 30.0
   },
   "gid://shopify/Product/9141505753293": {
     "title": "Mattel Brick Shop Hot Wheels Lamborghini Huracan Sterrato Building Set",
