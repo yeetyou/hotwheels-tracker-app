@@ -3554,7 +3554,7 @@
   "gid://shopify/Product/9096451883213": {
     "title": "Hot Wheels Premium Boulevard Ford RS200",
     "handle": "hot-premium-wheels-boulevard-ford-rs200-jbl29",
-    "available": true,
+    "available": false,
     "price": 6.5
   },
   "gid://shopify/Product/9096451948749": {
@@ -3984,7 +3984,7 @@
     "price": 22.0
   },
   "gid://shopify/Product/9107959808205": {
-    "title": "Hot Wheels RLC Exclusive 1988 Porsche 911 Targa Turbo With CHASE Version",
+    "title": "Hot Wheels RLC Exclusive 1988 Porsche 911 Targa Turbo - Standard OR Chase Variant (Randomized)",
     "handle": "rlc-exclusive-1988-porsche-911-targa-turbo-jjy65",
     "available": false,
     "price": 33.0
@@ -4320,7 +4320,7 @@
     "price": 28.0
   },
   "gid://shopify/Product/9122543370445": {
-    "title": "Hot Wheels RLC Exclusive \u201921 Ford Bronco With CHASE Version",
+    "title": "Hot Wheels RLC Exclusive \u201921 Ford Bronco - Standard OR Chase Variant (Randomized)",
     "handle": "hot-wheels-rlc-exclusive-21-ford-bronco-with-chase-version-jjy74",
     "available": false,
     "price": 38.0
