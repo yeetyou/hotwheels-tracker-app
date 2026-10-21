@@ -4684,5 +4684,11 @@
     "handle": "hot-wheels-rlc-exclusive-rwb-porsche-930-jjy69",
     "available": false,
     "price": 38.0
+  },
+  "gid://shopify/Product/9145115541709": {
+    "title": "Hot Wheels x MoMA 1965 Porsche 911 Coupe",
+    "handle": "hot-wheels-x-moma-1965-porsche-911-coupe-jmg42",
+    "available": true,
+    "price": 45.0
   }
 }
