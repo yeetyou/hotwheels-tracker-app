@@ -4242,7 +4242,7 @@
     "price": 38.0
   },
   "gid://shopify/Product/9119408390349": {
-    "title": "Hot Wheels Elite 64 Mod Shop Nissan Stagea",
+    "title": "Hot Wheels Elite 64Mod Shop Nissan Stagea",
     "handle": "hot-wheels-elite-64-mod-shop-nissan-stagea-hwr92",
     "available": true,
     "price": 32.0
@@ -4526,7 +4526,7 @@
   "gid://shopify/Product/9127766130893": {
     "title": "Hot Wheels Premium Car Culture Cyberpunk 2077 2-Pack",
     "handle": "hot-wheels-premium-car-culture-2-pack-quadra-turbo-r-v-tech-porsche-930-jhw53",
-    "available": false,
+    "available": true,
     "price": 16.0
   },
   "gid://shopify/Product/9127766163661": {
