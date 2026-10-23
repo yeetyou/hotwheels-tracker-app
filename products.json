@@ -4118,7 +4118,7 @@
   "gid://shopify/Product/9113028788429": {
     "title": "Hot Wheels Premium Fast & Furious 2003 Honda NSX Type-R",
     "handle": "hot-wheels-premium-fast-furious-jhw75",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9113028821197": {
@@ -4622,7 +4622,7 @@
   "gid://shopify/Product/9140568850637": {
     "title": "Hot Wheels R/C 1:64 Subaru Impreza Rally",
     "handle": "hot-wheels-rc-subaru-impreza-rally-vehicle-jmp91",
-    "available": false,
+    "available": true,
     "price": 55.0
   },
   "gid://shopify/Product/9141505425613": {
@@ -4636,6 +4636,48 @@
     "handle": "mattel-brick-shop-hot-wheels-lamborghini-huracan-sterrato-building-set-jhg75",
     "available": true,
     "price": 22.0
+  },
+  "gid://shopify/Product/9142180217037": {
+    "title": "Hot Wheels Premium 2025 Formula 1\u00ae BWT Alpine Racing Team #43",
+    "handle": "hot-wheels-premium-formula-1-bwt-alpine-racing-team-jkd94",
+    "available": true,
+    "price": 10.0
+  },
+  "gid://shopify/Product/9142180282573": {
+    "title": "Hot Wheels Premium 2025 Formula 1\u00ae Atlassian Williams Racing Team #23",
+    "handle": "hot-wheels-premium-2025-formula-1-atlassian-williams-racing-team-23-jkd96",
+    "available": true,
+    "price": 10.0
+  },
+  "gid://shopify/Product/9142180315341": {
+    "title": "Hot Wheels Premium 2025 Formula 1\u00ae Scuderia Ferrari HP #44 Lewis Hamilton and #16 Charles Leclerc",
+    "handle": "hot-wheels-premium-formula-1-scuderia-ferrari-hp-44-lewis-hamilton-and-16-charles-leclerc-jmm99",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9142180348109": {
+    "title": "Hot Wheels Premium 2025 Formula 1\u00ae BWT #10 Pierre Gasly & #43 Franco Colapinto 2-Pack",
+    "handle": "hot-wheels-premium-2025-formula-1-bwt-10-pierre-gasly-43-franco-colapinto-2-pack-jmm96",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9142180413645": {
+    "title": "Hot Wheels Premium 2025 Formula 1\u00ae Aston Martin #18 Lance Stroll and #14 Fernando Alonso",
+    "handle": "hot-wheels-premium-2025-formula-1-aston-martin-18-lance-stroll-and-14-fernando-alonso-jmn00",
+    "available": true,
+    "price": 25.0
+  },
+  "gid://shopify/Product/9142180446413": {
+    "title": "Hot Wheels Premium Formula 1\u00ae Oracle Red Bull Racing Team #22",
+    "handle": "hot-wheels-premium-formula-1-oracle-red-bull-racing-team-jkd95",
+    "available": true,
+    "price": 10.0
+  },
+  "gid://shopify/Product/9142180544717": {
+    "title": "Hot Wheels Premium 2025 Formula 1\u00ae Aston Martin Aramco Racing Team #17",
+    "handle": "hot-wheels-premium-formula-1-aston-martin-aramco-racing-team-jkd97",
+    "available": true,
+    "price": 10.0
   },
   "gid://shopify/Product/9142493872333": {
     "title": "Hot Wheels Holiday Haul Green T-shirt",
@@ -4679,16 +4721,34 @@
     "available": true,
     "price": 80.0
   },
+  "gid://shopify/Product/9142529392845": {
+    "title": "Hot Wheels 2025 Formula 1\u00ae Scuderia Ferrari HP Racing Team #16",
+    "handle": "hot-wheels-2025-formula-1-scuderia-ferrari-hp-racing-team-16-jkd93",
+    "available": true,
+    "price": 10.0
+  },
   "gid://shopify/Product/9142916186317": {
     "title": "Hot Wheels RLC Exclusive RWB Porsche 930",
     "handle": "hot-wheels-rlc-exclusive-rwb-porsche-930-jjy69",
     "available": false,
     "price": 38.0
   },
+  "gid://shopify/Product/9144288739533": {
+    "title": "Hot Wheels RLC Exclusive Datsun 240Z - Standard OR Chase Variant (Randomized)",
+    "handle": "hot-wheels-rlc-exclusive-datsun-240z-jpm47",
+    "available": false,
+    "price": 28.0
+  },
   "gid://shopify/Product/9145115541709": {
     "title": "Hot Wheels x MoMA 1965 Porsche 911 Coupe",
     "handle": "hot-wheels-x-moma-1965-porsche-911-coupe-jmg42",
     "available": true,
     "price": 45.0
+  },
+  "gid://shopify/Product/9145480315085": {
+    "title": "Hot Wheels x MoMA Bundle",
+    "handle": "hot-wheels-x-moma-bundle",
+    "available": true,
+    "price": 180.0
   }
 }
