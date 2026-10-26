@@ -4148,7 +4148,7 @@
   "gid://shopify/Product/9113029116109": {
     "title": "Hot Wheels Premium Car Culture Porsche 917K",
     "handle": "hot-wheels-premium-car-culture-jkf03",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9113029181645": {
@@ -4346,7 +4346,7 @@
   "gid://shopify/Product/9123011592397": {
     "title": "Mattel Brick Shop Hot Wheels Halo UNSC M12 Warthog Building Set",
     "handle": "mattel-brick-shop-hot-wheels-halo-unsc-m12-warthog-building-set-jnp49",
-    "available": true,
+    "available": false,
     "price": 76.0
   },
   "gid://shopify/Product/9123032498381": {
@@ -4744,6 +4744,12 @@
     "handle": "hot-wheels-x-moma-1965-porsche-911-coupe-jmg42",
     "available": true,
     "price": 45.0
+  },
+  "gid://shopify/Product/9145293308109": {
+    "title": "Hot Wheels Elite 64 Mercedes-AMG ONE",
+    "handle": "hot-wheels-elite-64-mercedes-amg-one-jjy48",
+    "available": false,
+    "price": 22.0
   },
   "gid://shopify/Product/9145480315085": {
     "title": "Hot Wheels x MoMA Bundle",
