@@ -3938,7 +3938,7 @@
   "gid://shopify/Product/9106641682637": {
     "title": "Hot Wheels Premium Fast & Furious Lamborghini Aventador Coup\u00e9",
     "handle": "hot-wheels-premium-fast-furious-jhw77",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9107087917261": {
@@ -4736,7 +4736,7 @@
   "gid://shopify/Product/9144288739533": {
     "title": "Hot Wheels RLC Exclusive Datsun 240Z - Standard OR Chase Variant (Randomized)",
     "handle": "hot-wheels-rlc-exclusive-datsun-240z-jpm47",
-    "available": true,
+    "available": false,
     "price": 28.0
   },
   "gid://shopify/Product/9145115541709": {
