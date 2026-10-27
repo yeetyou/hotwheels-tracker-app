@@ -3938,7 +3938,7 @@
   "gid://shopify/Product/9106641682637": {
     "title": "Hot Wheels Premium Fast & Furious Lamborghini Aventador Coup\u00e9",
     "handle": "hot-wheels-premium-fast-furious-jhw77",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9107087917261": {
@@ -4448,7 +4448,7 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922832589": {
