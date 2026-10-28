@@ -2990,7 +2990,7 @@
   "gid://shopify/Product/9043968491725": {
     "title": "Hot Wheels Elite 64 BMW M3 Touring",
     "handle": "hot-wheels-elite64-bmw-m3-touring-hwr93",
-    "available": true,
+    "available": false,
     "price": 22.0
   },
   "gid://shopify/Product/9043968753869": {
