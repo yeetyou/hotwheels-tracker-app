@@ -2990,7 +2990,7 @@
   "gid://shopify/Product/9043968491725": {
     "title": "Hot Wheels Elite 64 BMW M3 Touring",
     "handle": "hot-wheels-elite64-bmw-m3-touring-hwr93",
-    "available": false,
+    "available": true,
     "price": 22.0
   },
   "gid://shopify/Product/9043968753869": {
@@ -4178,7 +4178,7 @@
   "gid://shopify/Product/9113677037773": {
     "title": "Hot Wheels Car Culture & Team Transport Factory Set 1 of 4",
     "handle": "hot-wheels-car-culture-team-transport-factory-set-hjv98s",
-    "available": false,
+    "available": true,
     "price": 180.0
   },
   "gid://shopify/Product/9114846855373": {
