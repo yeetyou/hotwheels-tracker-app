@@ -4748,7 +4748,7 @@
   "gid://shopify/Product/9145293308109": {
     "title": "Hot Wheels Elite 64 Mercedes-AMG ONE",
     "handle": "hot-wheels-elite-64-mercedes-amg-one-jjy48",
-    "available": false,
+    "available": true,
     "price": 22.0
   },
   "gid://shopify/Product/9145480315085": {
