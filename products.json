@@ -4022,7 +4022,7 @@
   "gid://shopify/Product/9109662367949": {
     "title": "Hot Wheels RLC Exclusive \u201998 Subaru Impreza WRX STi",
     "handle": "rlc-exclusive-98-subaru-impreza-wrx-sti-jjy62",
-    "available": false,
+    "available": true,
     "price": 28.0
   },
   "gid://shopify/Product/9110524461261": {
@@ -4340,7 +4340,7 @@
   "gid://shopify/Product/9122906144973": {
     "title": "Hot Wheels Premium Car Culture A\u00e9ro Styles Lexus RC F GT3",
     "handle": "hot-wheels-premium-car-culture-lexus-rc-f-gt3-jkf35",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9123011592397": {
@@ -4448,7 +4448,7 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922832589": {
