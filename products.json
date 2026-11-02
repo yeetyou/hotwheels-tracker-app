@@ -4526,7 +4526,7 @@
   "gid://shopify/Product/9127766130893": {
     "title": "Hot Wheels Premium Car Culture Cyberpunk 2077 2-Pack",
     "handle": "hot-wheels-premium-car-culture-2-pack-quadra-turbo-r-v-tech-porsche-930-jhw53",
-    "available": false,
+    "available": true,
     "price": 16.0
   },
   "gid://shopify/Product/9127766163661": {
@@ -4544,7 +4544,7 @@
   "gid://shopify/Product/9127766261965": {
     "title": "Hot Wheels Premium Car Culture McLaren 2-Pack",
     "handle": "hot-wheels-premium-car-culture-mclaren-2-pack-jhw52",
-    "available": false,
+    "available": true,
     "price": 16.0
   },
   "gid://shopify/Product/9127766294733": {
@@ -4606,6 +4606,12 @@
     "handle": "hot-wheels-premium-oracle-red-bull-racing-2025-formula-1-team-22-team-1-jmm95",
     "available": true,
     "price": 25.0
+  },
+  "gid://shopify/Product/9139318653133": {
+    "title": "Hot Wheels Premium Set of 4 Herbie Volkswagen Beetles",
+    "handle": "hot-wheels-premium-set-of-4-herbie-volkswagen-beetle-jnr93",
+    "available": false,
+    "price": 35.0
   },
   "gid://shopify/Product/9140509507789": {
     "title": "Hot Wheels Elite 64 Pandem Datsun 280ZX",
