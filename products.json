@@ -4352,7 +4352,7 @@
   "gid://shopify/Product/9123032498381": {
     "title": "Mattel Brick Shop Hot Wheels '84 Audi Sport quattro Building Set",
     "handle": "mattel-brick-shop-hot-wheels-84-audi-sport-quattro-jlk39",
-    "available": true,
+    "available": false,
     "price": 60.0
   },
   "gid://shopify/Product/9123767615693": {
@@ -4658,7 +4658,7 @@
   "gid://shopify/Product/9142180315341": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Scuderia Ferrari HP #44 Lewis Hamilton and #16 Charles Leclerc",
     "handle": "hot-wheels-premium-formula-1-scuderia-ferrari-hp-44-lewis-hamilton-and-16-charles-leclerc-jmm99",
-    "available": true,
+    "available": false,
     "price": 25.0
   },
   "gid://shopify/Product/9142180348109": {
