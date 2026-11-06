@@ -4526,7 +4526,7 @@
   "gid://shopify/Product/9127766130893": {
     "title": "Hot Wheels Premium Car Culture Cyberpunk 2077 2-Pack",
     "handle": "hot-wheels-premium-car-culture-2-pack-quadra-turbo-r-v-tech-porsche-930-jhw53",
-    "available": true,
+    "available": false,
     "price": 16.0
   },
   "gid://shopify/Product/9127766163661": {
@@ -4631,6 +4631,12 @@
     "available": true,
     "price": 55.0
   },
+  "gid://shopify/Product/9141124104397": {
+    "title": "Hot Wheels Premium Boulevard 1995 Chevy Tahoe",
+    "handle": "hot-wheels-premium-boulevard-1995-chevy-tahoe-jhw23",
+    "available": false,
+    "price": 7.0
+  },
   "gid://shopify/Product/9141505425613": {
     "title": "Hot Wheels RLC Exclusive 1993 Mazda RX-7 R1",
     "handle": "hot-wheels-rlc-exclusive-1993-mazda-rx-7-r1-jkc06",
@@ -4648,6 +4654,12 @@
     "handle": "hot-wheels-premium-formula-1-bwt-alpine-racing-team-jkd94",
     "available": true,
     "price": 10.0
+  },
+  "gid://shopify/Product/9142180249805": {
+    "title": "Hot Wheels Premium Boulevard '49 Ford F1",
+    "handle": "hot-wheels-premium-boulevard-49-ford-f1-jhw39",
+    "available": true,
+    "price": 8.0
   },
   "gid://shopify/Product/9142180282573": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Atlassian Williams Racing Team #23",
@@ -4667,6 +4679,12 @@
     "available": true,
     "price": 25.0
   },
+  "gid://shopify/Product/9142180380877": {
+    "title": "Hot Wheels Premium Boulevard Datsun 24OZ",
+    "handle": "hot-wheels-premium-boulevard-datsun-24oz-jhw3",
+    "available": true,
+    "price": 8.0
+  },
   "gid://shopify/Product/9142180413645": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Aston Martin #18 Lance Stroll and #14 Fernando Alonso",
     "handle": "hot-wheels-premium-2025-formula-1-aston-martin-18-lance-stroll-and-14-fernando-alonso-jmn00",
@@ -4684,6 +4702,12 @@
     "handle": "hot-wheels-premium-formula-1-aston-martin-aramco-racing-team-jkd97",
     "available": true,
     "price": 10.0
+  },
+  "gid://shopify/Product/9142180610253": {
+    "title": "Hot Wheels Premium Boulevard 2023 Lamborghini Revuelto",
+    "handle": "hot-wheels-premium-boulevard-2023-lamborghini-revuelto-jhw24",
+    "available": true,
+    "price": 8.0
   },
   "gid://shopify/Product/9142493872333": {
     "title": "Hot Wheels Holiday Haul Green T-shirt",
@@ -4750,6 +4774,12 @@
     "handle": "hot-wheels-x-moma-1965-porsche-911-coupe-jmg42",
     "available": true,
     "price": 45.0
+  },
+  "gid://shopify/Product/9145220595917": {
+    "title": "Hot Wheels RLC Dodge Challenger SRT Demon 170",
+    "handle": "hot-wheels-rlc-exclusive-dodge-challenger-jjy53",
+    "available": false,
+    "price": 28.0
   },
   "gid://shopify/Product/9145293308109": {
     "title": "Hot Wheels Elite 64 Mercedes-AMG ONE",
