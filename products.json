@@ -4778,7 +4778,7 @@
   "gid://shopify/Product/9145220595917": {
     "title": "Hot Wheels RLC Dodge Challenger SRT Demon 170",
     "handle": "hot-wheels-rlc-exclusive-dodge-challenger-jjy53",
-    "available": false,
+    "available": true,
     "price": 28.0
   },
   "gid://shopify/Product/9145293308109": {
