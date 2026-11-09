@@ -1353,7 +1353,7 @@
     "title": "Hot Wheels x Daniel Arsham Eroded Deora II",
     "handle": "hot-wheels-x-daniel-arsham-eroded-deora-ii-hpj34",
     "available": true,
-    "price": 70.0
+    "price": 35.0
   },
   "gid://shopify/Product/8728643174605": {
     "title": "Hot Wheels x Daniel Arsham Porsche 356 \u201cBonsai\u201d Speedster",
@@ -1473,7 +1473,7 @@
     "title": "Hot Wheels x Daniel Arsham Eroded Twin Mill",
     "handle": "hot-wheels-x-daniel-arsham-eroded-twin-mill-hpj32",
     "available": true,
-    "price": 70.0
+    "price": 35.0
   },
   "gid://shopify/Product/8756586774733": {
     "title": "Hot Wheels x Daniel Arsham Livery Porsche 930A",
@@ -1671,7 +1671,7 @@
     "title": "Hot Wheels x Daniel Arsham Eroded Ford Mustang",
     "handle": "eroded-ford-mustang-hot-wheels-daniel-arsham-hpj33",
     "available": true,
-    "price": 70.0
+    "price": 35.0
   },
   "gid://shopify/Product/8842126196941": {
     "title": "Hot Wheels x Daniel Arsham Eroded Porsche Safari",
@@ -2247,7 +2247,7 @@
     "title": "Hot Wheels Body Shop Enamel Pin Set",
     "handle": "hot-wheels-body-shop-enamel-pin-set-jgt87",
     "available": true,
-    "price": 20.0
+    "price": 8.0
   },
   "gid://shopify/Product/8979088670925": {
     "title": "Hot Wheels Boulevard Porsche 935 Vehicle",
@@ -2265,7 +2265,7 @@
     "title": "Hot Wheels Elite 64 McLaren M6GT",
     "handle": "hot-wheels-elite-64-mclaren-m6gt-hwg05",
     "available": false,
-    "price": 20.0
+    "price": 8.0
   },
   "gid://shopify/Product/8980585382093": {
     "title": "Hot Wheels F1 Series: 2024 Visa Cash App RB Formula One Team VCARB 01 Car #22",
@@ -3087,7 +3087,7 @@
     "title": "Hot Wheels Premium Fast & Furious Lamborghini LM002",
     "handle": "hot-wheels-premium-fast-furious-lamborghini-lm002-jbl86",
     "available": true,
-    "price": 8.0
+    "price": 3.2
   },
   "gid://shopify/Product/9052992372941": {
     "title": "Hot Wheels Premium Car Culture 2-Pack Subaru Crosstrek & 2018 Toyota 4Runner",
@@ -3183,7 +3183,7 @@
     "title": "Hot Wheels RLC Exclusive \u201981 Toyota SR5 4WD",
     "handle": "rlc-exclusive-81-toyota-sr5-4wd-jcp20",
     "available": true,
-    "price": 33.0
+    "price": 13.2
   },
   "gid://shopify/Product/9058078523597": {
     "title": "Hot Wheels RLC Exclusive Ford GT40 MkII",
@@ -3237,7 +3237,7 @@
     "title": "Hot Wheels Elite 64 Porsche 963",
     "handle": "hot-wheels-elite-64-porsche-963-jcp46",
     "available": true,
-    "price": 22.0
+    "price": 8.8
   },
   "gid://shopify/Product/9081363136717": {
     "title": "Hot Wheels RLC Exclusive 1993 Mazda RX-7 R1",
@@ -3267,7 +3267,7 @@
     "title": "Hot Wheels Premium Car Culture Eurospeed McLaren Solus GT",
     "handle": "hot-wheels-premium-car-culture-eurospeed-mclaren-solus-gt-1-jbk78",
     "available": true,
-    "price": 8.0
+    "price": 3.2
   },
   "gid://shopify/Product/9085480894669": {
     "title": "Hot Wheels RLC Exclusive 1982 Lamborghini Countach LP 500 S",
@@ -3279,19 +3279,19 @@
     "title": "Hot Wheels Elite 64 1975 BMW 3.0 CSL Race",
     "handle": "hot-wheels-elite-64-1975-bmw-30-csl-race-jcp42",
     "available": true,
-    "price": 22.0
+    "price": 8.8
   },
   "gid://shopify/Product/9087523553485": {
     "title": "Hot Wheels x MoMA Citro\u00ebn DS 23 Sedan",
     "handle": "hot-wheels-x-moma-citroen-ds-23-sedan-jgl48",
     "available": true,
-    "price": 45.0
+    "price": 22.5
   },
   "gid://shopify/Product/9087523651789": {
     "title": "Hot Wheels x MoMA Jaguar E-Type Roadster",
     "handle": "hot-wheels-x-moma-jaguar-e-type-roadster-jgl49",
     "available": true,
-    "price": 45.0
+    "price": 22.5
   },
   "gid://shopify/Product/9088718635213": {
     "title": "Hot Wheels Premium Pop Culture Stranger Things 1983 BMW 733i",
@@ -3303,13 +3303,13 @@
     "title": "Hot Wheels Boulevard Maserati MC20",
     "handle": "hot-wheels-boulevard-vehicle-jbl11",
     "available": true,
-    "price": 6.5
+    "price": 2.6
   },
   "gid://shopify/Product/9089183809741": {
     "title": "Hot Wheels Premium Car Culture EuroSpeed Bugatti Bolide",
     "handle": "hot-wheels-premium-car-culture-bugatti-bolide-jbk79",
     "available": true,
-    "price": 8.0
+    "price": 3.2
   },
   "gid://shopify/Product/9090237923533": {
     "title": "Hot Wheels Premium Boulevard '98 Toyota Altezza",
@@ -3333,7 +3333,7 @@
     "title": "Hot Wheels Premium Boulevard '17 Ford GT",
     "handle": "hot-wheels-boulevard-vehicle-jbl15",
     "available": false,
-    "price": 6.5
+    "price": 2.6
   },
   "gid://shopify/Product/9090239398093": {
     "title": "Hot Wheels Premium Boulevard Nissan Laurel C33",
@@ -3393,7 +3393,7 @@
     "title": "Hot Wheels Premium Car Culture EuroSpeed Aston Martin Vantage GTE",
     "handle": "hot-wheels-premium-car-culture-jbk76",
     "available": true,
-    "price": 8.0
+    "price": 3.2
   },
   "gid://shopify/Product/9092494688461": {
     "title": "Hot Wheels Car Culture EuroSpeed Premium LaFerrari",
@@ -3465,7 +3465,7 @@
     "title": "Hot Wheels Premium Boulevard Mitsubishi Pajero Evolution",
     "handle": "hot-wheels-premium-car-culture-mitsubishi-pajero-evolution-jbl26",
     "available": true,
-    "price": 6.5
+    "price": 2.6
   },
   "gid://shopify/Product/9093473730765": {
     "title": "Hot Wheels Premium Boulevard '75 Ford Bronco",
@@ -3531,7 +3531,7 @@
     "title": "Hot Wheels Premium Fast & Furious Toyota Chaser JZX100",
     "handle": "hot-wheels-premium-fast-furious-cars-1998-toyota-chaser-jzx100-jbl89",
     "available": true,
-    "price": 8.0
+    "price": 3.2
   },
   "gid://shopify/Product/9096451784909": {
     "title": "Hot Wheels Premium  Boulevard 1993 Toyota 4Runner",
@@ -3627,13 +3627,13 @@
     "title": "Hot Wheels Premium Collector Display Set",
     "handle": "hot-wheels-premium-collector-display-set-jhw42",
     "available": true,
-    "price": 40.0
+    "price": 20.0
   },
   "gid://shopify/Product/9096452669645": {
     "title": "Hot Wheels Premium Fast & Furious 1969 Ford Mustang Boss 302",
     "handle": "hot-wheels-premium-fast-furious-1969-ford-mustang-boss-302-jhw72",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9096452702413": {
     "title": "Hot Wheels Premium Fast & Furious 1970 Chevrolet Chevelle SS",
@@ -3651,49 +3651,49 @@
     "title": "Hot Wheels Premium Fast & Furious Mercedes-Benz 500 SEL",
     "handle": "hot-wheels-premium-fast-furious-mercedes-benz-500-sel-jhw67",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9096452866253": {
     "title": "Hot Wheels Premium Fast & Furious Toyota FJ Cruiser",
     "handle": "hot-wheels-premium-fast-furious-toyota-fj-cruiser-jhw69",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9096452964557": {
     "title": "Hot Wheels Premium Fast & Furious W Motors Lykan Hypersport",
     "handle": "hot-wheels-premium-fast-furious-w-motors-lykan-hypersport-jhw70",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9096453030093": {
     "title": "Hot Wheels Premium McLaren 2025 Formula 1\u00ae Team #81",
     "handle": "hot-wheels-premium-mclaren-formula-1-team-jkd81",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9096453095629": {
     "title": "Hot Wheels Premium McLaren 2025 Formula 1\u00ae Team #4",
     "handle": "hot-wheels-premium-mclaren-formula-1-team-jkd88",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9096453128397": {
     "title": "Hot Wheels Premium Mercedes-AMG PETRONAS 2025 Formula 1\u00ae Team #63",
     "handle": "hot-wheels-premium-mercedes-amg-pertronas-formula-1-team-jkd80",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9096453193933": {
     "title": "Hot Wheels Premium MoneyGram Haas 2025 Formula 1\u00ae Team Haas #31",
     "handle": "hot-wheels-premium-moneygram-haas-formula-1-team-jkd78",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9096453226701": {
     "title": "Hot Wheels Premium Visa Cash App Racing Bulls 2025 Formula 1\u00ae Team #30",
     "handle": "hot-wheels-premium-visa-cash-app-racing-bulls-formula-1-team-jkd79",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9097059565773": {
     "title": "Hot Wheels Premium Honda Collector Display Set",
@@ -3717,13 +3717,13 @@
     "title": "Hot Wheels RLC Exclusive \u201921 Pagani Huayra R",
     "handle": "red-line-club-exclusive-21-pagani-huayra-r-jcp22",
     "available": true,
-    "price": 33.0
+    "price": 16.5
   },
   "gid://shopify/Product/9099167465677": {
     "title": "Hot Wheels RLC Exclusive \u201971 Datsun 510",
     "handle": "red-line-club-exclusive-71-datsun-510-jjy57",
     "available": true,
-    "price": 28.0
+    "price": 14.0
   },
   "gid://shopify/Product/9099167563981": {
     "title": "Mattel Brick Shop Hot Wheels \u201907 Honda S2000 Building Set",
@@ -3747,19 +3747,19 @@
     "title": "Hot Wheels Premium Car Culture Thrill Climbers Mercedes-Benz 300 SEL 6.8 AMG",
     "handle": "hot-wheels-premium-car-culture-jkf20",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9101684441293": {
     "title": "Hot Wheels Premium Car Culture Thrill Climbers Porsche 914 Safari",
     "handle": "hot-wheels-premium-car-culture-jkf22",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9101684474061": {
     "title": "Hot Wheels Premium Car Culture Thrill Climbers Lancia Delta S4",
     "handle": "hot-wheels-premium-car-culture-jkf01",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9101684506829": {
     "title": "Hot Wheels Premium Car Culture Thrill Climber Mitsubishi Lancer Evolution VI",
@@ -3771,13 +3771,13 @@
     "title": "Hot Wheels Formula 1\u00ae 2026 Concept Car",
     "handle": "hot-wheels-formula-1-2026-concept-car-jnr58",
     "available": true,
-    "price": 25.0
+    "price": 12.5
   },
   "gid://shopify/Product/9101686997197": {
     "title": "Hot Wheels Elite 64 Mod Shop \u201924 Jeep Gladiator",
     "handle": "hot-wheels-elite64-mod-shop-24-jeep-gladiator-hwr96",
     "available": true,
-    "price": 37.0
+    "price": 14.8
   },
   "gid://shopify/Product/9104112025805": {
     "title": "Mattel Brick Shop Hot Wheels \u201924 Aston Martin Vantage GT3 Building Set",
@@ -3789,7 +3789,7 @@
     "title": "Hot Wheels RLC Exclusive Membership Car 1965 Shelby Cobra 427 S/C",
     "handle": "rlc-1965-shelby-cobra-427-sc-jjy67",
     "available": false,
-    "price": 28.0
+    "price": 14.0
   },
   "gid://shopify/Product/9104443867341": {
     "title": "Hot Wheels Premium Fast & Furious 1967 Chevy Custom / Personnalis\u00e9 C-10",
@@ -3843,37 +3843,37 @@
     "title": "Hot Wheels RLC Exclusive \u201971 AMC Javelin AMX",
     "handle": "rlc-exclusive-71-amc-javelin-amx-jjy58",
     "available": true,
-    "price": 28.0
+    "price": 14.0
   },
   "gid://shopify/Product/9106187321549": {
     "title": "Hot Wheels Premium Kick Sauber 2025 Formula 1\u00ae Team #5",
     "handle": "hot-wheels-premium-formula-1-jkd89",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9106187485389": {
     "title": "Hot Wheels Premium BWT Alpine 2025 Formula 1\u00ae Team #10",
     "handle": "hot-wheels-premium-formula-1-jkd82",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9106187780301": {
     "title": "Hot Wheels Premium Oracle Red Bull Racing 2025 Formula 1\u00ae Team #1",
     "handle": "hot-wheels-premium-formula-1-jkd83",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9106187944141": {
     "title": "Hot Wheels Premium Kick Sauber 2025 Formula 1\u00ae Team #27",
     "handle": "hot-wheels-premium-formula-1-jkd84",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9106188075213": {
     "title": "Hot Wheels Premium Atlassian Williams Racing 2025 Formula 1\u00ae Team #55",
     "handle": "hot-wheels-premium-formula-1-jkd85",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9106479710413": {
     "title": "Hot Wheels RLC Exclusive 1972 Skyline H/T 2000GT-R",
@@ -3891,7 +3891,7 @@
     "title": "Hot Wheels Premium Car Culture 2008 Mercedes-Benz CLK 63 AMG Black Series / S\u00e9rie",
     "handle": "hot-wheels-premium-car-culture-jkf29",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9106641387725": {
     "title": "Hot Wheels Premium Car Culture BMW M3",
@@ -3915,7 +3915,7 @@
     "title": "Hot Wheels Premium Collector Display Set",
     "handle": "hot-wheels-premium-collector-display-set-jhw43",
     "available": true,
-    "price": 40.0
+    "price": 24.0
   },
   "gid://shopify/Product/9106641584333": {
     "title": "Hot Wheels Premium Car Culture 2-Pack Back to the Future Time Machine & 1987 Toyota Pickup Truck / Camionnette",
@@ -3933,7 +3933,7 @@
     "title": "Hot Wheels Premium Car Culture 2-Pack Custom / Personnalis\u00e9 '64 Galaxie 500 &  '67 Ford Anglia Racer Voiture De Course",
     "handle": "hot-wheels-premium-car-culture-jhw50",
     "available": true,
-    "price": 16.0
+    "price": 8.0
   },
   "gid://shopify/Product/9106641682637": {
     "title": "Hot Wheels Premium Fast & Furious Lamborghini Aventador Coup\u00e9",
@@ -3993,37 +3993,37 @@
     "title": "Hot Wheels Elite 64 Mercedes-Benz 300 SL",
     "handle": "hot-wheels-elite-64-mercedes-benz-300-sl-jnf05",
     "available": true,
-    "price": 22.0
+    "price": 11.0
   },
   "gid://shopify/Product/9108577124557": {
     "title": "Hot Wheels Premium  MoneyGram Haas 2025 Formula 1\u00ae Team #31 & Team #87",
     "handle": "hot-wheels-premium-moneygram-haas-2025-formula-1-team-31-team-87-jmm97",
     "available": true,
-    "price": 25.0
+    "price": 17.5
   },
   "gid://shopify/Product/9108577157325": {
     "title": "Hot Wheels Premium McLaren 2025 Formula 1\u00ae Team #81 & Team #4",
     "handle": "hot-wheels-premium-mclaren-2025-formula-1-team-81-team-4-jmm91",
     "available": true,
-    "price": 25.0
+    "price": 17.5
   },
   "gid://shopify/Product/9108577222861": {
     "title": "Hot Wheels Premium Mercedes 2025 Formula 1\u00ae Team #63 & Team #12",
     "handle": "hot-wheels-premium-mercedes-2025-formula-1-team-63-team-12-jmm93",
     "available": true,
-    "price": 25.0
+    "price": 17.5
   },
   "gid://shopify/Product/9108577288397": {
     "title": "Hot Wheels Premium Visa Cash App Racing Bulls 2025 Formula 1\u00ae Team #30 & Team #6",
     "handle": "hot-wheels-premium-visa-cash-app-racing-bulls-2025-formula-1-team-30-team-6-jmm94",
     "available": true,
-    "price": 25.0
+    "price": 17.5
   },
   "gid://shopify/Product/9109662367949": {
     "title": "Hot Wheels RLC Exclusive \u201998 Subaru Impreza WRX STi",
     "handle": "rlc-exclusive-98-subaru-impreza-wrx-sti-jjy62",
     "available": false,
-    "price": 28.0
+    "price": 14.0
   },
   "gid://shopify/Product/9110524461261": {
     "title": "Hot Wheels Premium Car Culture Ferrari Testarossa",
@@ -4035,13 +4035,13 @@
     "title": "Hot Wheels Premium Car Culture 1994 NISMO 270R (S14)",
     "handle": "hot-wheels-premium-car-culture-jkd99",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9110524559565": {
     "title": "Hot Wheels Premium Car Culture Mazda 323 GTR",
     "handle": "hot-wheels-premium-car-culture-jkf17",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9110524592333": {
     "title": "Hot Wheels Premium Car Culture Porsche 993 GT2",
@@ -4053,13 +4053,13 @@
     "title": "Hot Wheels Premium Car Culture Toyota Soarer",
     "handle": "hot-wheels-premium-car-culture-toyota-soarer-jfk15",
     "available": true,
-    "price": 8.0
+    "price": 4.0
   },
   "gid://shopify/Product/9111048323277": {
     "title": "Hot Wheels RLC Exclusive 1991 BMW M3",
     "handle": "rlc-exclusive-1991-bmw-m3-jjy68",
     "available": true,
-    "price": 33.0
+    "price": 19.8
   },
   "gid://shopify/Product/9111919427789": {
     "title": "Hot Wheels RLC Exclusive 1994 NSX",
@@ -4083,7 +4083,7 @@
     "title": "Hot Wheels R/C 1:64 Lamborghini Temerario Alleggerita",
     "handle": "hot-wheels-rc-164-lamborghini-temerario-alleggerita-jhw60",
     "available": true,
-    "price": 55.0
+    "price": 33.0
   },
   "gid://shopify/Product/9112964530381": {
     "title": "Hot Wheels Elite 64 Porsche 911 GT2 EVO 993",
@@ -4107,7 +4107,7 @@
     "title": "Hot Wheels Premium Car Culture LB-Kaido Works Nissan R32 Skyline GT-R",
     "handle": "hot-wheels-premium-car-culture-jkf05",
     "available": false,
-    "price": 8.0
+    "price": 5.6
   },
   "gid://shopify/Product/9113028755661": {
     "title": "Hot Wheels Premium Boulevard 20058 Toyota Alphard",
@@ -4130,14 +4130,14 @@
   "gid://shopify/Product/9113028853965": {
     "title": "Hot Wheels Premium Car Culture 2008 Audi A4 Touring Car / Voiture De Tourisme",
     "handle": "hot-wheels-premium-car-culture-jkf04",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9113028985037": {
     "title": "Hot Wheels Premium Boulevard 1967 Jeepster Commando",
     "handle": "hot-wheels-premium-boulevard-jhw29",
     "available": true,
-    "price": 8.0
+    "price": 4.8
   },
   "gid://shopify/Product/9113029083341": {
     "title": "Hot Wheels Premium Fast & Furious 2010 BMW M5",
@@ -4148,7 +4148,7 @@
   "gid://shopify/Product/9113029116109": {
     "title": "Hot Wheels Premium Car Culture Porsche 917K",
     "handle": "hot-wheels-premium-car-culture-jkf03",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9113029181645": {
@@ -4161,7 +4161,7 @@
     "title": "Hot Wheels Premium Fast & Furious Toyota Land Cruiser FJ60",
     "handle": "hot-wheels-premium-fast-furious-jhw76",
     "available": true,
-    "price": 8.0
+    "price": 4.8
   },
   "gid://shopify/Product/9113469452493": {
     "title": "Hot Wheels RLC Exclusive 1962 Ford F-100",
@@ -4191,7 +4191,7 @@
     "title": "Hot Wheels Premium Car Culture 2-Pack 2003 Dodge Viper SRT-10 & 2012 Corvette Z06",
     "handle": "hot-wheels-premium-car-culture-2-pack-jhw54",
     "available": true,
-    "price": 16.0
+    "price": 9.6
   },
   "gid://shopify/Product/9115675164877": {
     "title": "Hot Wheels Premium Collector Display Set",
@@ -4203,7 +4203,7 @@
     "title": "Hot Wheels Premium Car Culture Jaguar XJS",
     "handle": "hot-wheels-premium-car-culture-jaguar-xjs-jkf02",
     "available": true,
-    "price": 8.0
+    "price": 4.8
   },
   "gid://shopify/Product/9115675263181": {
     "title": "Hot Wheels Premium Boulevard 2021 Toyota GR Supra",
@@ -4221,7 +4221,7 @@
     "title": "Hot Wheels Premium Car Culture \u201976 Greenwood Corvette",
     "handle": "hot-wheels-premium-car-culture-76-greenwood-corvette-jkf24",
     "available": true,
-    "price": 8.0
+    "price": 4.8
   },
   "gid://shopify/Product/9117568270541": {
     "title": "Hot Wheels Premium Car Culture Ferrari 250 GTO Vintage Racing",
@@ -4233,19 +4233,19 @@
     "title": "Hot Wheels Premium Car Culture Lancia Stratos",
     "handle": "hot-wheels-premium-car-culture-lancia-stratos-jkf26",
     "available": true,
-    "price": 8.0
+    "price": 4.8
   },
   "gid://shopify/Product/9117568434381": {
     "title": "Hot Wheels RLC Exclusive 1986 Nissan 720 King Cab",
     "handle": "hot-wheels-rlc-exclusive-1986-c-nissan-720-king-cab-jjy64",
     "available": false,
-    "price": 38.0
+    "price": 26.6
   },
   "gid://shopify/Product/9119408390349": {
     "title": "Hot Wheels Elite 64Mod Shop Nissan Stagea",
     "handle": "hot-wheels-elite-64-mod-shop-nissan-stagea-hwr92",
     "available": true,
-    "price": 32.0
+    "price": 12.8
   },
   "gid://shopify/Product/9119408488653": {
     "title": "Hot Wheels KPop Demon Hunters Porsche 911 GT3 R (992)",
@@ -4263,7 +4263,7 @@
     "title": "Hot Wheels Top Gun 40th Anniversary Set",
     "handle": "hot-wheels-top-gun-40th-anniversary-set-jrb43",
     "available": false,
-    "price": 35.0
+    "price": 24.5
   },
   "gid://shopify/Product/9119420645581": {
     "title": "Hot Wheels Designed for Speed White T-shirt",
@@ -4311,13 +4311,13 @@
     "title": "Hot Wheels Premium Car Culture Maserati 2-Pack",
     "handle": "hot-wheels-premium-car-culture-maserati-2-pack-jhw55",
     "available": true,
-    "price": 16.0
+    "price": 9.6
   },
   "gid://shopify/Product/9120264552653": {
     "title": "Hot Wheels RLC Exclusive 1985 Audi Sport quattro S1",
     "handle": "hot-wheels-rlc-exclusive-1985-audi-sport-quattro-s1-jjy70",
     "available": true,
-    "price": 28.0
+    "price": 19.6
   },
   "gid://shopify/Product/9122543370445": {
     "title": "Hot Wheels RLC Exclusive \u201921 Ford Bronco - Standard OR Chase Variant (Randomized)",
@@ -4335,7 +4335,7 @@
     "title": "Hot Wheels Premium Car Culture A\u00e9ro Styles LB Super Silhouette Nissan Silvia (S15)",
     "handle": "hot-wheels-premium-car-culture-lb-super-silhouette-nissan-silvia-s15-jkf34",
     "available": true,
-    "price": 8.0
+    "price": 5.6
   },
   "gid://shopify/Product/9122906144973": {
     "title": "Hot Wheels Premium Car Culture A\u00e9ro Styles Lexus RC F GT3",
@@ -4359,7 +4359,7 @@
     "title": "Hot Wheels Elite 64 Mazda RX-7 Liberty Walk",
     "handle": "hot-wheels-elite-64-mazda-rx-7-liberty-walk-jcp43",
     "available": true,
-    "price": 22.0
+    "price": 15.4
   },
   "gid://shopify/Product/9123767648461": {
     "title": "Hot Wheels RLC Exclusive Ferrari F40",
@@ -4401,37 +4401,37 @@
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Visa Cash App Racing Bulls Team #6",
     "handle": "hot-wheels-premium-2025-formula-1-visa-cash-app-racing-bulls-team-6-jkd91",
     "available": true,
-    "price": 10.0
+    "price": 7.0
   },
   "gid://shopify/Product/9125812797645": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Mercedes-AMG PETRONAS Team #12",
     "handle": "hot-wheels-premium-2025-formula-1-mercedes-amg-petronas-team-12-jkd92",
     "available": true,
-    "price": 10.0
+    "price": 7.0
   },
   "gid://shopify/Product/9125812830413": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae MoneyGram Haas Team #87",
     "handle": "hot-wheels-premium-2025-formula-1-moneygram-haas-team-87-jkd90",
     "available": true,
-    "price": 10.0
+    "price": 7.0
   },
   "gid://shopify/Product/9125812863181": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Team #44",
     "handle": "hot-wheels-premium-2025-formula-1-lewis-hamilton-team-44-jkd86",
     "available": false,
-    "price": 10.0
+    "price": 7.0
   },
   "gid://shopify/Product/9125812895949": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Aston Martin Aramco Team #18",
     "handle": "hot-wheels-premium-formula-1-aston-martin-aramco-team-18-jkd87",
     "available": true,
-    "price": 10.0
+    "price": 7.0
   },
   "gid://shopify/Product/9125922701517": {
     "title": "Hot Wheels Premium Boulevard '71 El Camino",
     "handle": "hot-wheels-premium-boulevard-71-el-camino-jhw38",
     "available": true,
-    "price": 8.0
+    "price": 5.6
   },
   "gid://shopify/Product/9125922734285": {
     "title": "Hot Wheels Premium  Boulevard Aston Martin DBS",
@@ -4443,7 +4443,7 @@
     "title": "Hot Wheels Elite 64 Mercedes-Benz G 63 AMG 6x6",
     "handle": "hot-wheels-elite-64-mercedes-benz-g-63-amg-6x6-jcp45",
     "available": true,
-    "price": 22.0
+    "price": 15.4
   },
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
@@ -4623,7 +4623,7 @@
     "title": "Hot Wheels F1\u00ae Cars",
     "handle": "hot-wheels-f1\u00ae-vehicles",
     "available": true,
-    "price": 10.0
+    "price": 5.0
   },
   "gid://shopify/Product/9140568850637": {
     "title": "Hot Wheels R/C 1:64 Subaru Impreza Rally",
@@ -4792,5 +4792,11 @@
     "handle": "hot-wheels-x-moma-bundle",
     "available": true,
     "price": 180.0
+  },
+  "gid://shopify/Product/9147993489613": {
+    "title": "Hot Wheels Elite 64 1979 Chevy C30 Crew Cab Dually 4x4",
+    "handle": "hot-wheels-elite-64-1979-chevy-c30-crew-cab-dually-4x4-jjy51",
+    "available": false,
+    "price": 65.0
   }
 }
