@@ -3236,7 +3236,7 @@
   "gid://shopify/Product/9081363005645": {
     "title": "Hot Wheels Elite 64 Porsche 963",
     "handle": "hot-wheels-elite-64-porsche-963-jcp46",
-    "available": true,
+    "available": false,
     "price": 8.8
   },
   "gid://shopify/Product/9081363136717": {
@@ -3680,7 +3680,7 @@
   "gid://shopify/Product/9096453128397": {
     "title": "Hot Wheels Premium Mercedes-AMG PETRONAS 2025 Formula 1\u00ae Team #63",
     "handle": "hot-wheels-premium-mercedes-amg-pertronas-formula-1-team-jkd80",
-    "available": true,
+    "available": false,
     "price": 5.0
   },
   "gid://shopify/Product/9096453193933": {
@@ -4058,7 +4058,7 @@
   "gid://shopify/Product/9111048323277": {
     "title": "Hot Wheels RLC Exclusive 1991 BMW M3",
     "handle": "rlc-exclusive-1991-bmw-m3-jjy68",
-    "available": true,
+    "available": false,
     "price": 19.8
   },
   "gid://shopify/Product/9111919427789": {
@@ -4658,7 +4658,7 @@
   "gid://shopify/Product/9142180249805": {
     "title": "Hot Wheels Premium Boulevard '49 Ford F1",
     "handle": "hot-wheels-premium-boulevard-49-ford-f1-jhw39",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9142180282573": {
