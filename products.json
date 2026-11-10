@@ -2340,7 +2340,7 @@
     "price": 8.0
   },
   "gid://shopify/Product/8980585775309": {
-    "title": "Hot Wheels F1 Series: 2024 McLaren Formula 1 Team MCL38 Car #4",
+    "title": "Hot Wheels F1 Series: McLaren Formula 1 Team MCL38 Car #4",
     "handle": "hot-wheels-f1-series-mclaren-formula-1-team-mcl38-car-4-jbm11",
     "available": false,
     "price": 8.0
@@ -3182,7 +3182,7 @@
   "gid://shopify/Product/9056462864589": {
     "title": "Hot Wheels RLC Exclusive \u201981 Toyota SR5 4WD",
     "handle": "rlc-exclusive-81-toyota-sr5-4wd-jcp20",
-    "available": true,
+    "available": false,
     "price": 13.2
   },
   "gid://shopify/Product/9058078523597": {
@@ -3302,7 +3302,7 @@
   "gid://shopify/Product/9089183023309": {
     "title": "Hot Wheels Boulevard Maserati MC20",
     "handle": "hot-wheels-boulevard-vehicle-jbl11",
-    "available": true,
+    "available": false,
     "price": 2.6
   },
   "gid://shopify/Product/9089183809741": {
@@ -4034,7 +4034,7 @@
   "gid://shopify/Product/9110524526797": {
     "title": "Hot Wheels Premium Car Culture 1994 NISMO 270R (S14)",
     "handle": "hot-wheels-premium-car-culture-jkd99",
-    "available": true,
+    "available": false,
     "price": 4.0
   },
   "gid://shopify/Product/9110524559565": {
