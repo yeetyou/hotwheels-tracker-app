@@ -2555,6 +2555,12 @@
     "available": false,
     "price": 33.0
   },
+  "gid://shopify/Product/8989298524365": {
+    "title": "Hot Wheels Premium Fast & Furious 1966 Chevy Impala",
+    "handle": "hot-wheels-cars-premium-fast-furious-car-jbl95",
+    "available": true,
+    "price": 3.2
+  },
   "gid://shopify/Product/8989298622669": {
     "title": "Hot Wheels Premium Fast & Furious 2020 Dodge Charger Hellcat",
     "handle": "hot-wheels-cars-premium-fast-furious-car-jbl96",
@@ -3497,6 +3503,12 @@
     "available": false,
     "price": 200.0
   },
+  "gid://shopify/Product/9094685589709": {
+    "title": "Hot Wheels Premium Boulevard '94 Nissan Primera",
+    "handle": "hot-wheels-boulevard-premium-jbl31",
+    "available": true,
+    "price": 2.6
+  },
   "gid://shopify/Product/9094685786317": {
     "title": "Hot Wheels Premium Car Culture Timeless Icons Porsche Carrera GT",
     "handle": "hot-wheels-premium-car-culture-timeless-icons-porshe-carrera-gt-jbk91",
@@ -3632,7 +3644,7 @@
   "gid://shopify/Product/9096452669645": {
     "title": "Hot Wheels Premium Fast & Furious 1969 Ford Mustang Boss 302",
     "handle": "hot-wheels-premium-fast-furious-1969-ford-mustang-boss-302-jhw72",
-    "available": true,
+    "available": false,
     "price": 4.0
   },
   "gid://shopify/Product/9096452702413": {
@@ -3746,7 +3758,7 @@
   "gid://shopify/Product/9101684408525": {
     "title": "Hot Wheels Premium Car Culture Thrill Climbers Mercedes-Benz 300 SEL 6.8 AMG",
     "handle": "hot-wheels-premium-car-culture-jkf20",
-    "available": true,
+    "available": false,
     "price": 4.0
   },
   "gid://shopify/Product/9101684441293": {
@@ -3770,7 +3782,7 @@
   "gid://shopify/Product/9101684539597": {
     "title": "Hot Wheels Formula 1\u00ae 2026 Concept Car",
     "handle": "hot-wheels-formula-1-2026-concept-car-jnr58",
-    "available": true,
+    "available": false,
     "price": 12.5
   },
   "gid://shopify/Product/9101686997197": {
@@ -4082,7 +4094,7 @@
   "gid://shopify/Product/9112385192141": {
     "title": "Hot Wheels R/C 1:64 Lamborghini Temerario Alleggerita",
     "handle": "hot-wheels-rc-164-lamborghini-temerario-alleggerita-jhw60",
-    "available": true,
+    "available": false,
     "price": 33.0
   },
   "gid://shopify/Product/9112964530381": {
