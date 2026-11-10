@@ -3308,7 +3308,7 @@
   "gid://shopify/Product/9089183809741": {
     "title": "Hot Wheels Premium Car Culture EuroSpeed Bugatti Bolide",
     "handle": "hot-wheels-premium-car-culture-bugatti-bolide-jbk79",
-    "available": true,
+    "available": false,
     "price": 3.2
   },
   "gid://shopify/Product/9090237923533": {
@@ -3842,7 +3842,7 @@
   "gid://shopify/Product/9105045946573": {
     "title": "Hot Wheels RLC Exclusive \u201971 AMC Javelin AMX",
     "handle": "rlc-exclusive-71-amc-javelin-amx-jjy58",
-    "available": true,
+    "available": false,
     "price": 14.0
   },
   "gid://shopify/Product/9106187321549": {
@@ -3860,7 +3860,7 @@
   "gid://shopify/Product/9106187780301": {
     "title": "Hot Wheels Premium Oracle Red Bull Racing 2025 Formula 1\u00ae Team #1",
     "handle": "hot-wheels-premium-formula-1-jkd83",
-    "available": true,
+    "available": false,
     "price": 5.0
   },
   "gid://shopify/Product/9106187944141": {
@@ -4778,7 +4778,7 @@
   "gid://shopify/Product/9145220595917": {
     "title": "Hot Wheels RLC Dodge Challenger SRT Demon 170",
     "handle": "hot-wheels-rlc-exclusive-dodge-challenger-jjy53",
-    "available": true,
+    "available": false,
     "price": 28.0
   },
   "gid://shopify/Product/9145293308109": {
