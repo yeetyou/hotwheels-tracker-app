@@ -1670,7 +1670,7 @@
   "gid://shopify/Product/8842125738189": {
     "title": "Hot Wheels x Daniel Arsham Eroded Ford Mustang",
     "handle": "eroded-ford-mustang-hot-wheels-daniel-arsham-hpj33",
-    "available": true,
+    "available": false,
     "price": 35.0
   },
   "gid://shopify/Product/8842126196941": {
@@ -2558,7 +2558,7 @@
   "gid://shopify/Product/8989298524365": {
     "title": "Hot Wheels Premium Fast & Furious 1966 Chevy Impala",
     "handle": "hot-wheels-cars-premium-fast-furious-car-jbl95",
-    "available": true,
+    "available": false,
     "price": 3.2
   },
   "gid://shopify/Product/8989298622669": {
@@ -3542,7 +3542,7 @@
   "gid://shopify/Product/9095457177805": {
     "title": "Hot Wheels Premium Fast & Furious Toyota Chaser JZX100",
     "handle": "hot-wheels-premium-fast-furious-cars-1998-toyota-chaser-jzx100-jbl89",
-    "available": true,
+    "available": false,
     "price": 3.2
   },
   "gid://shopify/Product/9096451784909": {
@@ -4346,7 +4346,7 @@
   "gid://shopify/Product/9122906079437": {
     "title": "Hot Wheels Premium Car Culture A\u00e9ro Styles LB Super Silhouette Nissan Silvia (S15)",
     "handle": "hot-wheels-premium-car-culture-lb-super-silhouette-nissan-silvia-s15-jkf34",
-    "available": true,
+    "available": false,
     "price": 5.6
   },
   "gid://shopify/Product/9122906144973": {
