@@ -3470,7 +3470,7 @@
   "gid://shopify/Product/9093472944333": {
     "title": "Hot Wheels Premium Boulevard Mitsubishi Pajero Evolution",
     "handle": "hot-wheels-premium-car-culture-mitsubishi-pajero-evolution-jbl26",
-    "available": true,
+    "available": false,
     "price": 2.6
   },
   "gid://shopify/Product/9093473730765": {
@@ -3686,7 +3686,7 @@
   "gid://shopify/Product/9096453095629": {
     "title": "Hot Wheels Premium McLaren 2025 Formula 1\u00ae Team #4",
     "handle": "hot-wheels-premium-mclaren-formula-1-team-jkd88",
-    "available": true,
+    "available": false,
     "price": 5.0
   },
   "gid://shopify/Product/9096453128397": {
@@ -4262,19 +4262,19 @@
   "gid://shopify/Product/9119408488653": {
     "title": "Hot Wheels KPop Demon Hunters Porsche 911 GT3 R (992)",
     "handle": "hot-wheels-kpop-demon-hunters-porsche-911-gt3-r-992-jtg62",
-    "available": false,
+    "available": true,
     "price": 30.0
   },
   "gid://shopify/Product/9119408554189": {
     "title": "Hot Wheels Stranger Things 10th Anniversary \u201983 Chevy Van",
     "handle": "hot-wheels-stranger-things-10th-anniversary-83-chevy-van-jnl72",
-    "available": false,
+    "available": true,
     "price": 40.0
   },
   "gid://shopify/Product/9119408619725": {
     "title": "Hot Wheels Top Gun 40th Anniversary Set",
     "handle": "hot-wheels-top-gun-40th-anniversary-set-jrb43",
-    "available": false,
+    "available": true,
     "price": 24.5
   },
   "gid://shopify/Product/9119420645581": {
@@ -4694,7 +4694,7 @@
   "gid://shopify/Product/9142180380877": {
     "title": "Hot Wheels Premium Boulevard Datsun 24OZ",
     "handle": "hot-wheels-premium-boulevard-datsun-24oz-jhw3",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9142180413645": {
