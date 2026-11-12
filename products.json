@@ -3926,7 +3926,7 @@
   "gid://shopify/Product/9106641518797": {
     "title": "Hot Wheels Premium Collector Display Set",
     "handle": "hot-wheels-premium-collector-display-set-jhw43",
-    "available": true,
+    "available": false,
     "price": 24.0
   },
   "gid://shopify/Product/9106641584333": {
@@ -4262,7 +4262,7 @@
   "gid://shopify/Product/9119408488653": {
     "title": "Hot Wheels KPop Demon Hunters Porsche 911 GT3 R (992)",
     "handle": "hot-wheels-kpop-demon-hunters-porsche-911-gt3-r-992-jtg62",
-    "available": true,
+    "available": false,
     "price": 30.0
   },
   "gid://shopify/Product/9119408554189": {
