@@ -3506,7 +3506,7 @@
   "gid://shopify/Product/9094685589709": {
     "title": "Hot Wheels Premium Boulevard '94 Nissan Primera",
     "handle": "hot-wheels-boulevard-premium-jbl31",
-    "available": true,
+    "available": false,
     "price": 2.6
   },
   "gid://shopify/Product/9094685786317": {
@@ -4268,7 +4268,7 @@
   "gid://shopify/Product/9119408554189": {
     "title": "Hot Wheels Stranger Things 10th Anniversary \u201983 Chevy Van",
     "handle": "hot-wheels-stranger-things-10th-anniversary-83-chevy-van-jnl72",
-    "available": true,
+    "available": false,
     "price": 40.0
   },
   "gid://shopify/Product/9119408619725": {
@@ -4718,7 +4718,7 @@
   "gid://shopify/Product/9142180610253": {
     "title": "Hot Wheels Premium Boulevard 2023 Lamborghini Revuelto",
     "handle": "hot-wheels-premium-boulevard-2023-lamborghini-revuelto-jhw24",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9142493872333": {
