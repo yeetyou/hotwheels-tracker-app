@@ -4670,7 +4670,7 @@
   "gid://shopify/Product/9142180249805": {
     "title": "Hot Wheels Premium Boulevard '49 Ford F1",
     "handle": "hot-wheels-premium-boulevard-49-ford-f1-jhw39",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9142180282573": {
@@ -4778,6 +4778,12 @@
   "gid://shopify/Product/9144288739533": {
     "title": "Hot Wheels RLC Exclusive Datsun 240Z - Standard OR Chase Variant (Randomized)",
     "handle": "hot-wheels-rlc-exclusive-datsun-240z-jpm47",
+    "available": false,
+    "price": 28.0
+  },
+  "gid://shopify/Product/9144824004813": {
+    "title": "Hot Wheels RLC Exclusive Volkswagen T1 Rockster",
+    "handle": "hot-wheels-rlc-exclusive-volkswagen-rockster-jjy61",
     "available": false,
     "price": 28.0
   },
