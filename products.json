@@ -4694,7 +4694,7 @@
   "gid://shopify/Product/9142180380877": {
     "title": "Hot Wheels Premium Boulevard Datsun 24OZ",
     "handle": "hot-wheels-premium-boulevard-datsun-24oz-jhw3",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9142180413645": {
@@ -4718,7 +4718,7 @@
   "gid://shopify/Product/9142180610253": {
     "title": "Hot Wheels Premium Boulevard 2023 Lamborghini Revuelto",
     "handle": "hot-wheels-premium-boulevard-2023-lamborghini-revuelto-jhw24",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9142493872333": {
