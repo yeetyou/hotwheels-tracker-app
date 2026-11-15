@@ -3092,7 +3092,7 @@
   "gid://shopify/Product/9052967239885": {
     "title": "Hot Wheels Premium Fast & Furious Lamborghini LM002",
     "handle": "hot-wheels-premium-fast-furious-lamborghini-lm002-jbl86",
-    "available": false,
+    "available": true,
     "price": 3.2
   },
   "gid://shopify/Product/9052992372941": {
@@ -3734,7 +3734,7 @@
   "gid://shopify/Product/9099167465677": {
     "title": "Hot Wheels RLC Exclusive \u201971 Datsun 510",
     "handle": "red-line-club-exclusive-71-datsun-510-jjy57",
-    "available": true,
+    "available": false,
     "price": 14.0
   },
   "gid://shopify/Product/9099167563981": {
@@ -4454,7 +4454,7 @@
   "gid://shopify/Product/9125922767053": {
     "title": "Hot Wheels Elite 64 Mercedes-Benz G 63 AMG 6x6",
     "handle": "hot-wheels-elite-64-mercedes-benz-g-63-amg-6x6-jcp45",
-    "available": true,
+    "available": false,
     "price": 15.4
   },
   "gid://shopify/Product/9125922799821": {
