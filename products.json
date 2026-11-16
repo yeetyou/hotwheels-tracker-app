@@ -4682,7 +4682,7 @@
   "gid://shopify/Product/9142180315341": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Scuderia Ferrari HP #44 Lewis Hamilton and #16 Charles Leclerc",
     "handle": "hot-wheels-premium-formula-1-scuderia-ferrari-hp-44-lewis-hamilton-and-16-charles-leclerc-jmm99",
-    "available": false,
+    "available": true,
     "price": 25.0
   },
   "gid://shopify/Product/9142180348109": {
@@ -4816,5 +4816,11 @@
     "handle": "hot-wheels-elite-64-1979-chevy-c30-crew-cab-dually-4x4-jjy51",
     "available": false,
     "price": 65.0
+  },
+  "gid://shopify/Product/9150543495373": {
+    "title": "Disney x Formula 1\u00ae Hot Wheels Vehicle",
+    "handle": "disney-x-formula-1-hot-wheels-vehicle-jtv49",
+    "available": false,
+    "price": 25.0
   }
 }
