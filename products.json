@@ -4154,7 +4154,7 @@
   "gid://shopify/Product/9113029083341": {
     "title": "Hot Wheels Premium Fast & Furious 2010 BMW M5",
     "handle": "hot-wheels-premium-fast-furious-2010-bmw-m5-jhw62",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9113029116109": {
@@ -4460,13 +4460,13 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9125922832589": {
     "title": "Hot Wheels Premium Boulevard '66 Super Nova",
     "handle": "hot-wheels-premium-boulevard-66-super-nova-jhw35",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9125922930893": {
