@@ -4820,7 +4820,7 @@
   "gid://shopify/Product/9150543495373": {
     "title": "Disney x Formula 1\u00ae Hot Wheels Vehicle",
     "handle": "disney-x-formula-1-hot-wheels-vehicle-jtv49",
-    "available": false,
+    "available": true,
     "price": 25.0
   }
 }
