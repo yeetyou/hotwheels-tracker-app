@@ -3926,7 +3926,7 @@
   "gid://shopify/Product/9106641518797": {
     "title": "Hot Wheels Premium Collector Display Set",
     "handle": "hot-wheels-premium-collector-display-set-jhw43",
-    "available": false,
+    "available": true,
     "price": 24.0
   },
   "gid://shopify/Product/9106641584333": {
@@ -4661,6 +4661,12 @@
     "available": true,
     "price": 22.0
   },
+  "gid://shopify/Product/9142180184269": {
+    "title": "Hot Wheels Car Culture Premium Porsche 718 Cayman GT4",
+    "handle": "hot-wheels-car-culture-premium-porsche-718-cayman-gt4-jkf42",
+    "available": true,
+    "price": 8.0
+  },
   "gid://shopify/Product/9142180217037": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae BWT Alpine Racing Team #43",
     "handle": "hot-wheels-premium-formula-1-bwt-alpine-racing-team-jkd94",
@@ -4709,11 +4715,29 @@
     "available": true,
     "price": 10.0
   },
+  "gid://shopify/Product/9142180479181": {
+    "title": "Hot Wheels Premium Car Culture 2020 Audi RS 6 Avant",
+    "handle": "hot-wheels-premium-car-culture-2020-audi-rs-6-avant-jkf43",
+    "available": true,
+    "price": 8.0
+  },
+  "gid://shopify/Product/9142180511949": {
+    "title": "Hot Wheels Premium Car Culture 2025 BMW M5",
+    "handle": "hot-wheels-premium-car-culture-2025-bmw-m5-jkf09",
+    "available": true,
+    "price": 8.0
+  },
   "gid://shopify/Product/9142180544717": {
     "title": "Hot Wheels Premium 2025 Formula 1\u00ae Aston Martin Aramco Racing Team #17",
     "handle": "hot-wheels-premium-formula-1-aston-martin-aramco-racing-team-jkd97",
     "available": true,
     "price": 10.0
+  },
+  "gid://shopify/Product/9142180577485": {
+    "title": "Hot Wheels Premium Car Culture Volkswagen Golf MK7 GTI",
+    "handle": "hot-wheels-premium-car-culture-volkswagen-golf-mk7-gti-jkf44",
+    "available": true,
+    "price": 8.0
   },
   "gid://shopify/Product/9142180610253": {
     "title": "Hot Wheels Premium Boulevard 2023 Lamborghini Revuelto",
@@ -4768,6 +4792,12 @@
     "handle": "hot-wheels-2025-formula-1-scuderia-ferrari-hp-racing-team-16-jkd93",
     "available": true,
     "price": 10.0
+  },
+  "gid://shopify/Product/9142907371725": {
+    "title": "Hot Wheels Premium Car Culture 2025 Mercedes AMG GT 63 Pro",
+    "handle": "hot-wheels-premium-car-culture-2025-mercedes-amg-gt-63-pro-jkf08",
+    "available": true,
+    "price": 8.0
   },
   "gid://shopify/Product/9142916186317": {
     "title": "Hot Wheels RLC Exclusive RWB Porsche 930",
