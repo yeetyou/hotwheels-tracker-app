@@ -3926,7 +3926,7 @@
   "gid://shopify/Product/9106641518797": {
     "title": "Hot Wheels Premium Collector Display Set",
     "handle": "hot-wheels-premium-collector-display-set-jhw43",
-    "available": true,
+    "available": false,
     "price": 24.0
   },
   "gid://shopify/Product/9106641584333": {
@@ -4460,13 +4460,13 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922832589": {
     "title": "Hot Wheels Premium Boulevard '66 Super Nova",
     "handle": "hot-wheels-premium-boulevard-66-super-nova-jhw35",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9125922930893": {
