@@ -3926,7 +3926,7 @@
   "gid://shopify/Product/9106641518797": {
     "title": "Hot Wheels Premium Collector Display Set",
     "handle": "hot-wheels-premium-collector-display-set-jhw43",
-    "available": false,
+    "available": true,
     "price": 24.0
   },
   "gid://shopify/Product/9106641584333": {
@@ -4460,13 +4460,13 @@
   "gid://shopify/Product/9125922799821": {
     "title": "Hot Wheels Premium Boulevard 1989 Mercedes-Benz 560 SEC AMG",
     "handle": "hot-wheels-premium-boulevard-1989-mercedes-benz-560-sec-amg-jhw37",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9125922832589": {
     "title": "Hot Wheels Premium Boulevard '66 Super Nova",
     "handle": "hot-wheels-premium-boulevard-66-super-nova-jhw35",
-    "available": true,
+    "available": false,
     "price": 8.0
   },
   "gid://shopify/Product/9125922930893": {
@@ -4700,7 +4700,7 @@
   "gid://shopify/Product/9142180380877": {
     "title": "Hot Wheels Premium Boulevard Datsun 24OZ",
     "handle": "hot-wheels-premium-boulevard-datsun-24oz-jhw3",
-    "available": false,
+    "available": true,
     "price": 8.0
   },
   "gid://shopify/Product/9142180413645": {
@@ -4852,5 +4852,11 @@
     "handle": "disney-x-formula-1-hot-wheels-vehicle-jtv49",
     "available": true,
     "price": 25.0
+  },
+  "gid://shopify/Product/9151995478221": {
+    "title": "Hot Wheels 2026 Formula 1\u00ae Season Display Set",
+    "handle": "hot-wheels-2026-formula-1-season-display-set-jrb41",
+    "available": false,
+    "price": 220.0
   }
 }
