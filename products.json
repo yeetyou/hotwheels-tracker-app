@@ -4004,7 +4004,7 @@
   "gid://shopify/Product/9108574077133": {
     "title": "Hot Wheels Elite 64 Mercedes-Benz 300 SL",
     "handle": "hot-wheels-elite-64-mercedes-benz-300-sl-jnf05",
-    "available": true,
+    "available": false,
     "price": 8.8
   },
   "gid://shopify/Product/9108577124557": {
@@ -4592,7 +4592,7 @@
   "gid://shopify/Product/9127766917325": {
     "title": "Hot Wheels Premium Fast & Furious Nissan 350Z Custom",
     "handle": "hot-wheels-premium-fast-furious-nissan-350z-custom-personnalise-jhw79",
-    "available": true,
+    "available": false,
     "price": 6.4
   },
   "gid://shopify/Product/9127876755661": {
